@@ -1,0 +1,131 @@
+DEFINE
+
+-- =====================
+-- BASIC SALES MEASURES
+-- =====================
+MEASURE 'adidas'[Total Sales] =
+SUM ( 'adidas'[total_sales] )
+
+MEASURE 'adidas'[Total Profit] =
+SUM ( 'adidas'[operating_profit] )
+
+MEASURE 'adidas'[Total Units Sold] =
+SUM ( 'adidas'[units_sold] )
+
+MEASURE 'adidas'[Average Price Per Unit] =
+AVERAGE ( 'adidas'[price_per_unit] )
+
+MEASURE 'adidas'[Total Orders] =
+DISTINCTCOUNT ( 'adidas'[invoice_date] )
+
+-- =====================
+-- PROFITABILITY
+-- =====================
+MEASURE 'adidas'[Profit Margin %] =
+DIVIDE ( [Total Profit], [Total Sales], 0 )
+
+MEASURE 'adidas'[Profit per Unit] =
+DIVIDE ( [Total Profit], [Total Units Sold], 0 )
+
+MEASURE 'adidas'[Average Revenue Per Unit] =
+DIVIDE ( [Total Sales], [Total Units Sold], 0 )
+
+MEASURE 'adidas'[High Margin Flag] =
+IF ( [Profit Margin %] > 0.25, "High Margin", "Low Margin" )
+
+-- =====================
+-- TIME INTELLIGENCE
+-- =====================
+MEASURE 'adidas'[Sales MoM] =
+CALCULATE (
+    [Total Sales],
+    DATEADD ( 'adidas'[invoice_date], -1, MONTH )
+)
+
+MEASURE 'adidas'[Sales MoM %] =
+DIVIDE ( [Total Sales] - [Sales MoM], [Sales MoM], 0 )
+
+MEASURE 'adidas'[Sales YoY] =
+CALCULATE (
+    [Total Sales],
+    DATEADD ( 'adidas'[invoice_date], -1, YEAR )
+)
+
+MEASURE 'adidas'[Sales YoY %] =
+DIVIDE ( [Total Sales] - [Sales YoY], [Sales YoY], 0 )
+
+MEASURE 'adidas'[Profit MoM] =
+CALCULATE (
+    [Total Profit],
+    DATEADD ( 'adidas'[invoice_date], -1, MONTH )
+)
+
+MEASURE 'adidas'[Profit MoM %] =
+DIVIDE ( [Total Profit] - [Profit MoM], [Profit MoM], 0 )
+
+MEASURE 'adidas'[Profit YoY] =
+CALCULATE (
+    [Total Profit],
+    DATEADD ( 'adidas'[invoice_date], -1, YEAR )
+)
+
+MEASURE 'adidas'[Profit YoY %] =
+DIVIDE ( [Total Profit] - [Profit YoY], [Profit YoY], 0 )
+
+-- =====================
+-- CONTRIBUTION
+-- =====================
+MEASURE 'adidas'[Sales Contribution %] =
+DIVIDE (
+    [Total Sales],
+    CALCULATE ( [Total Sales], ALL ( 'adidas' ) ),
+    0
+)
+
+MEASURE 'adidas'[Profit Contribution %] =
+DIVIDE (
+    [Total Profit],
+    CALCULATE ( [Total Profit], ALL ( 'adidas' ) ),
+    0
+)
+
+-- =====================
+-- RANKING
+-- =====================
+MEASURE 'adidas'[Sales Rank by Category] =
+RANKX (
+    ALL ( 'adidas'[category] ),
+    [Total Sales],
+    ,
+    DESC
+)
+
+MEASURE 'adidas'[Profit Rank by Region] =
+RANKX (
+    ALL ( 'adidas'[Region] ),
+    [Total Profit],
+    ,
+    DESC
+)
+
+-- =====================
+-- EVALUATION OUTPUT
+-- =====================
+EVALUATE
+SUMMARIZECOLUMNS (
+    'adidas'[Region],
+    'adidas'[category],
+    "Total Sales", [Total Sales],
+    "Total Profit", [Total Profit],
+    "Units Sold", [Total Units Sold],
+    "Profit Margin %", [Profit Margin %],
+    "Sales MoM %", [Sales MoM %],
+    "Sales YoY %", [Sales YoY %],
+    "Profit MoM %", [Profit MoM %],
+    "Profit YoY %", [Profit YoY %],
+    "Sales Contribution %", [Sales Contribution %],
+    "Profit Contribution %", [Profit Contribution %],
+    "Avg Revenue Per Unit", [Average Revenue Per Unit],
+    "Sales Rank (Category)", [Sales Rank by Category],
+    "Profit Rank (Region)", [Profit Rank by Region]
+)

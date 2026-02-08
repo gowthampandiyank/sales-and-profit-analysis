@@ -1,0 +1,1001 @@
+Retailer,"Retailer ID",invoice_date,Region,State,City,Product,category,price_per_unit,units_sold,total_sales,operating_profit,operating_margin,sales_method
+"Foot Locker",1185732,2020-01-01,Northeast,"New York","New York","Men's ","Street Footwear",50.00,1200,600000.00,300000.00,0.50,In-store
+"Foot Locker",1185732,2020-01-02,Northeast,"New York","New York","Men's ","Athletic Footwear",50.00,1000,500000.00,150000.00,0.30,In-store
+"Foot Locker",1185732,2020-01-03,Northeast,"New York","New York","Women's ","Street Footwear",40.00,1000,400000.00,140000.00,0.35,In-store
+"Foot Locker",1185732,2020-01-04,Northeast,"New York","New York","Women's ","Athletic Footwear",45.00,850,382500.00,133875.00,0.35,In-store
+"Foot Locker",1185732,2020-01-05,Northeast,"New York","New York","Men's ",Apparel,60.00,900,540000.00,162000.00,0.30,In-store
+"Foot Locker",1185732,2020-01-06,Northeast,"New York","New York","Women's ",Apparel,50.00,1000,500000.00,125000.00,0.25,In-store
+"Foot Locker",1185732,2020-01-07,Northeast,"New York","New York","Men's ","Street Footwear",50.00,1250,625000.00,312500.00,0.50,In-store
+"Foot Locker",1185732,2020-01-08,Northeast,"New York","New York","Men's ","Athletic Footwear",50.00,900,450000.00,135000.00,0.30,Outlet
+"Foot Locker",1185732,2020-01-21,Northeast,"New York","New York","Women's ","Street Footwear",40.00,950,380000.00,133000.00,0.35,Outlet
+"Foot Locker",1185732,2020-01-22,Northeast,"New York","New York","Women's ","Athletic Footwear",45.00,825,371250.00,129937.50,0.35,Outlet
+"Foot Locker",1185732,2020-01-23,Northeast,"New York","New York","Men's ",Apparel,60.00,900,540000.00,162000.00,0.30,Outlet
+"Foot Locker",1185732,2020-01-24,Northeast,"New York","New York","Women's ",Apparel,50.00,1000,500000.00,125000.00,0.25,Outlet
+"Foot Locker",1185732,2020-01-25,Northeast,"New York","New York","Men's ","Street Footwear",50.00,1220,610000.00,305000.00,0.50,Outlet
+"Foot Locker",1185732,2020-01-26,Northeast,"New York","New York","Men's ","Athletic Footwear",50.00,925,462500.00,138750.00,0.30,Outlet
+"Foot Locker",1185732,2020-01-27,Northeast,"New York","New York","Women's ","Street Footwear",40.00,950,380000.00,133000.00,0.35,Outlet
+"Foot Locker",1185732,2020-01-28,Northeast,"New York","New York","Women's ","Athletic Footwear",45.00,800,360000.00,126000.00,0.35,Outlet
+"Foot Locker",1185732,2020-01-29,Northeast,"New York","New York","Men's ",Apparel,60.00,850,510000.00,153000.00,0.30,Outlet
+"Foot Locker",1185732,2020-01-30,Northeast,"New York","New York","Women's ",Apparel,50.00,950,475000.00,118750.00,0.25,Outlet
+"Foot Locker",1185732,2020-01-31,Northeast,"New York","New York","Men's ","Street Footwear",50.00,1200,600000.00,300000.00,0.50,Outlet
+"Foot Locker",1185732,2020-02-01,Northeast,"New York","New York","Men's ","Athletic Footwear",50.00,900,450000.00,135000.00,0.30,Outlet
+"Foot Locker",1185732,2020-02-02,Northeast,"New York","New York","Women's ","Street Footwear",40.00,900,360000.00,126000.00,0.35,Outlet
+"Foot Locker",1185732,2020-02-03,Northeast,"New York","New York","Women's ","Athletic Footwear",45.00,825,371250.00,129937.50,0.35,Outlet
+"Foot Locker",1185732,2020-02-04,Northeast,"New York","New York","Men's ",Apparel,60.00,825,495000.00,148500.00,0.30,Outlet
+"Foot Locker",1185732,2020-02-05,Northeast,"New York","New York","Women's ",Apparel,50.00,950,475000.00,118750.00,0.25,Outlet
+"Foot Locker",1185732,2020-02-06,Northeast,"New York","New York","Men's ","Street Footwear",60.00,1220,732000.00,366000.00,0.50,Outlet
+"Foot Locker",1185732,2020-02-07,Northeast,"New York","New York","Men's ","Athletic Footwear",55.00,925,508750.00,152625.00,0.30,Outlet
+"Foot Locker",1185732,2020-02-08,Northeast,"New York","New York","Women's ","Street Footwear",50.00,900,450000.00,157500.00,0.35,Outlet
+"Foot Locker",1185732,2020-02-09,Northeast,"New York","New York","Women's ","Athletic Footwear",50.00,850,425000.00,148750.00,0.35,Outlet
+"Foot Locker",1185732,2020-02-10,Northeast,"New York","New York","Men's ",Apparel,60.00,875,525000.00,157500.00,0.30,Outlet
+"Foot Locker",1185732,2020-03-03,Northeast,"New York","New York","Women's ",Apparel,65.00,1000,650000.00,162500.00,0.25,Outlet
+"Foot Locker",1185732,2020-03-04,Northeast,"New York","New York","Men's ","Street Footwear",60.00,1250,750000.00,375000.00,0.50,Outlet
+"Foot Locker",1185732,2020-03-05,Northeast,"New York","New York","Men's ","Athletic Footwear",55.00,1000,550000.00,165000.00,0.30,Outlet
+"Foot Locker",1185732,2020-03-06,Northeast,"New York","New York","Women's ","Street Footwear",50.00,925,462500.00,161875.00,0.35,Outlet
+"Foot Locker",1185732,2020-03-07,Northeast,"New York","New York","Women's ","Athletic Footwear",50.00,900,450000.00,157500.00,0.35,Outlet
+"Foot Locker",1185732,2020-03-08,Northeast,"New York","New York","Men's ",Apparel,60.00,900,540000.00,162000.00,0.30,Outlet
+"Foot Locker",1185732,2020-03-09,Northeast,"New York","New York","Women's ",Apparel,65.00,1050,682500.00,170625.00,0.25,Outlet
+"Foot Locker",1185732,2020-03-10,Northeast,"New York","New York","Men's ","Street Footwear",60.00,1275,765000.00,382500.00,0.50,Outlet
+"Foot Locker",1185732,2020-03-11,Northeast,"New York","New York","Men's ","Athletic Footwear",55.00,1025,563750.00,169125.00,0.30,Outlet
+"Foot Locker",1185732,2020-03-12,Northeast,"New York","New York","Women's ","Street Footwear",50.00,950,475000.00,166250.00,0.35,Outlet
+"Foot Locker",1185732,2020-03-13,Northeast,"New York","New York","Women's ","Athletic Footwear",50.00,900,450000.00,157500.00,0.35,Outlet
+"Foot Locker",1185732,2020-03-14,Northeast,"New York","New York","Men's ",Apparel,60.00,925,555000.00,166500.00,0.30,Outlet
+"Foot Locker",1185732,2020-03-15,Northeast,"New York","New York","Women's ",Apparel,65.00,1100,715000.00,178750.00,0.25,Outlet
+"Foot Locker",1185732,2020-03-16,Northeast,"New York","New York","Men's ","Street Footwear",60.00,1250,750000.00,375000.00,0.50,Outlet
+"Foot Locker",1185732,2020-03-17,Northeast,"New York","New York","Men's ","Athletic Footwear",55.00,1025,563750.00,169125.00,0.30,Outlet
+"Foot Locker",1185732,2020-03-18,Northeast,"New York","New York","Women's ","Street Footwear",50.00,950,475000.00,166250.00,0.35,Outlet
+"Foot Locker",1185732,2020-03-31,Northeast,"New York","New York","Women's ","Athletic Footwear",50.00,925,462500.00,161875.00,0.35,Outlet
+Walmart,1185732,2020-04-17,Northeast,"New York","New York","Men's ",Apparel,60.00,900,540000.00,162000.00,0.30,Outlet
+Walmart,1185732,2020-04-18,Northeast,"New York","New York","Women's ",Apparel,65.00,1075,698750.00,174687.50,0.25,Outlet
+Walmart,1185732,2020-04-19,Northeast,"New York","New York","Men's ","Street Footwear",60.00,1200,720000.00,360000.00,0.50,Outlet
+Walmart,1185732,2020-04-20,Northeast,"New York","New York","Men's ","Athletic Footwear",55.00,1000,550000.00,165000.00,0.30,Outlet
+Walmart,1185732,2020-04-21,Northeast,"New York","New York","Women's ","Street Footwear",50.00,925,462500.00,161875.00,0.35,Outlet
+Walmart,1185732,2020-04-22,Northeast,"New York","New York","Women's ","Athletic Footwear",50.00,900,450000.00,157500.00,0.35,Outlet
+Walmart,1185732,2020-04-23,Northeast,"New York","New York","Men's ",Apparel,60.00,900,540000.00,162000.00,0.30,Outlet
+Walmart,1185732,2020-04-24,Northeast,"New York","New York","Women's ",Apparel,65.00,1000,650000.00,162500.00,0.25,Outlet
+Walmart,1185732,2020-04-25,Northeast,"New York","New York","Men's ",Apparel,65.00,875,568750.00,170625.00,0.30,Outlet
+Walmart,1185732,2020-04-26,Northeast,"New York","New York","Women's ",Apparel,70.00,1000,700000.00,175000.00,0.25,Outlet
+Walmart,1185732,2020-04-27,Northeast,"New York","New York","Men's ","Street Footwear",65.00,1150,747500.00,373750.00,0.50,Outlet
+Walmart,1185732,2020-04-28,Northeast,"New York","New York","Men's ","Athletic Footwear",55.00,975,536250.00,160875.00,0.30,Outlet
+Walmart,1185732,2020-04-29,Northeast,"New York","New York","Women's ","Street Footwear",55.00,920,506000.00,177100.00,0.35,Outlet
+Walmart,1185732,2020-04-30,Northeast,"New York","New York","Women's ","Athletic Footwear",55.00,900,495000.00,173250.00,0.35,Outlet
+Walmart,1185732,2020-05-01,Northeast,"New York","New York","Men's ",Apparel,65.00,875,568750.00,170625.00,0.30,Outlet
+Walmart,1185732,2020-05-02,Northeast,"New York","New York","Women's ",Apparel,70.00,975,682500.00,170625.00,0.25,Outlet
+Walmart,1185732,2020-05-03,Northeast,"New York","New York","Men's ","Street Footwear",65.00,1200,780000.00,390000.00,0.50,Outlet
+Walmart,1185732,2020-05-04,Northeast,"New York","New York","Men's ","Athletic Footwear",55.00,1000,550000.00,165000.00,0.30,Outlet
+Walmart,1185732,2020-05-05,Northeast,"New York","New York","Women's ","Street Footwear",55.00,950,522500.00,182875.00,0.35,Outlet
+Walmart,1185732,2020-05-06,Northeast,"New York","New York","Women's ","Athletic Footwear",55.00,900,495000.00,173250.00,0.35,Outlet
+Walmart,1185732,2020-05-07,Northeast,"New York","New York","Men's ",Apparel,65.00,900,585000.00,175500.00,0.30,Outlet
+Walmart,1185732,2020-07-18,Northeast,"New York","New York","Women's ",Apparel,70.00,1000,700000.00,175000.00,0.25,Outlet
+"Sports Direct",1197831,2020-07-19,Northeast,"New York","New York","Men's ","Street Footwear",25.00,900,225000.00,78750.00,0.35,Outlet
+"Sports Direct",1197831,2020-07-20,Northeast,"New York","New York","Men's ","Athletic Footwear",35.00,900,315000.00,110250.00,0.35,Outlet
+"Sports Direct",1197831,2020-07-21,Northeast,"New York","New York","Women's ","Street Footwear",35.00,700,245000.00,85750.00,0.35,Outlet
+"Sports Direct",1197831,2020-07-22,Northeast,"New York","New York","Women's ","Athletic Footwear",35.00,700,245000.00,110250.00,0.45,Outlet
+"Sports Direct",1197831,2020-07-23,South,Texas,Houston,"Men's ",Apparel,40.00,550,220000.00,66000.00,0.30,Outlet
+"Sports Direct",1197831,2020-07-24,South,Texas,Houston,"Women's ",Apparel,35.00,700,245000.00,122500.00,0.50,Outlet
+"Sports Direct",1197831,2020-07-25,South,Texas,Houston,"Men's ","Street Footwear",25.00,850,212500.00,74375.00,0.35,Outlet
+"Sports Direct",1197831,2020-07-26,South,Texas,Houston,"Men's ","Athletic Footwear",35.00,850,297500.00,104125.00,0.35,Outlet
+"Sports Direct",1197831,2020-07-27,South,Texas,Houston,"Women's ","Street Footwear",35.00,675,236250.00,82687.50,0.35,Outlet
+"Sports Direct",1197831,2020-07-28,South,Texas,Houston,"Women's ","Athletic Footwear",35.00,625,218750.00,98437.50,0.45,Outlet
+"Sports Direct",1197831,2020-07-29,South,Texas,Houston,"Men's ",Apparel,40.00,500,200000.00,60000.00,0.30,Outlet
+"Sports Direct",1197831,2020-07-30,South,Texas,Houston,"Women's ",Apparel,35.00,700,245000.00,122500.00,0.50,Outlet
+"Sports Direct",1197831,2020-07-31,South,Texas,Houston,"Men's ","Street Footwear",30.00,875,262500.00,91875.00,0.35,Outlet
+"Sports Direct",1197831,2020-08-01,South,Texas,Houston,"Men's ","Athletic Footwear",40.00,875,350000.00,122500.00,0.35,Outlet
+"Sports Direct",1197831,2020-08-02,South,Texas,Houston,"Women's ","Street Footwear",35.00,700,245000.00,85750.00,0.35,Outlet
+"Sports Direct",1197831,2020-08-03,South,Texas,Houston,"Women's ","Athletic Footwear",40.00,600,240000.00,108000.00,0.45,Outlet
+"Sports Direct",1197831,2020-08-04,South,Texas,Houston,"Men's ",Apparel,45.00,500,225000.00,67500.00,0.30,Outlet
+"Sports Direct",1197831,2020-08-05,South,Texas,Houston,"Women's ",Apparel,40.00,650,260000.00,130000.00,0.50,Outlet
+"Sports Direct",1197831,2020-08-06,South,Texas,Houston,"Men's ","Street Footwear",30.00,900,270000.00,94500.00,0.35,Outlet
+"Sports Direct",1197831,2020-08-07,South,Texas,Houston,"Men's ","Athletic Footwear",40.00,900,360000.00,126000.00,0.35,Outlet
+"Sports Direct",1197831,2020-08-08,South,Texas,Houston,"Women's ","Street Footwear",35.00,725,253750.00,88812.50,0.35,Outlet
+"Sports Direct",1197831,2020-08-09,South,Texas,Houston,"Women's ","Athletic Footwear",40.00,625,250000.00,112500.00,0.45,Outlet
+Walmart,1197831,2020-08-10,South,Texas,Houston,"Men's ",Apparel,45.00,525,236250.00,70875.00,0.30,Outlet
+Walmart,1197831,2020-08-11,South,Texas,Houston,"Women's ",Apparel,40.00,800,320000.00,160000.00,0.50,Outlet
+Walmart,1197831,2020-08-12,South,Texas,Houston,"Men's ","Street Footwear",30.00,925,277500.00,97125.00,0.35,Outlet
+Walmart,1197831,2020-08-13,South,Texas,Houston,"Men's ","Athletic Footwear",40.00,925,370000.00,129500.00,0.35,Outlet
+Walmart,1197831,2020-08-14,South,Texas,Houston,"Women's ","Street Footwear",35.00,775,271250.00,94937.50,0.35,Outlet
+Walmart,1197831,2020-08-15,South,Texas,Houston,"Women's ","Athletic Footwear",40.00,700,280000.00,126000.00,0.45,Outlet
+Walmart,1197831,2020-08-16,South,Texas,Houston,"Men's ",Apparel,45.00,600,270000.00,81000.00,0.30,Outlet
+Walmart,1197831,2020-08-17,South,Texas,Houston,"Women's ",Apparel,40.00,950,380000.00,190000.00,0.50,Outlet
+Walmart,1197831,2020-08-18,South,Texas,Houston,"Men's ","Street Footwear",40.00,950,380000.00,133000.00,0.35,Outlet
+Walmart,1197831,2020-08-19,South,Texas,Houston,"Men's ","Athletic Footwear",45.00,950,427500.00,149625.00,0.35,Outlet
+Walmart,1197831,2020-08-20,South,Texas,Houston,"Women's ","Street Footwear",40.00,800,320000.00,112000.00,0.35,Outlet
+Walmart,1197831,2020-08-21,South,Texas,Houston,"Women's ","Athletic Footwear",40.00,750,300000.00,135000.00,0.45,Outlet
+Walmart,1197831,2020-08-22,South,Texas,Houston,"Men's ",Apparel,45.00,650,292500.00,87750.00,0.30,Outlet
+Walmart,1197831,2020-08-23,South,Texas,Houston,"Women's ",Apparel,50.00,1000,500000.00,250000.00,0.50,Outlet
+Walmart,1197831,2020-08-24,South,Texas,Houston,"Men's ","Street Footwear",40.00,950,380000.00,133000.00,0.35,Outlet
+Walmart,1197831,2020-08-25,South,Texas,Houston,"Men's ","Athletic Footwear",45.00,950,427500.00,149625.00,0.35,Outlet
+Walmart,1197831,2020-08-26,South,Texas,Houston,"Women's ","Street Footwear",40.00,1100,440000.00,154000.00,0.35,Outlet
+Walmart,1197831,2020-08-27,South,Texas,Houston,"Women's ","Athletic Footwear",40.00,700,280000.00,126000.00,0.45,Outlet
+Walmart,1197831,2020-08-28,South,Texas,Houston,"Men's ",Apparel,45.00,700,315000.00,94500.00,0.30,Outlet
+Walmart,1197831,2020-08-29,South,Texas,Houston,"Women's ",Apparel,50.00,975,487500.00,243750.00,0.50,Outlet
+Walmart,1197831,2020-08-30,South,Texas,Houston,"Men's ","Street Footwear",40.00,925,370000.00,129500.00,0.35,Outlet
+Walmart,1197831,2020-08-31,South,Texas,Houston,"Men's ","Athletic Footwear",45.00,925,416250.00,145687.50,0.35,Outlet
+Walmart,1197831,2020-09-01,South,Texas,Houston,"Women's ","Street Footwear",40.00,1100,440000.00,154000.00,0.35,Outlet
+Walmart,1197831,2020-09-02,South,Texas,Houston,"Women's ","Athletic Footwear",40.00,650,260000.00,117000.00,0.45,Outlet
+Walmart,1197831,2020-09-03,South,Texas,Houston,"Men's ",Apparel,45.00,650,292500.00,87750.00,0.30,Outlet
+Walmart,1197831,2020-09-04,South,Texas,Houston,"Women's ",Apparel,50.00,900,450000.00,225000.00,0.50,Outlet
+Walmart,1197831,2020-09-05,South,Texas,Houston,"Men's ","Street Footwear",45.00,850,382500.00,133875.00,0.35,Outlet
+Walmart,1197831,2020-09-06,South,Texas,Houston,"Men's ","Athletic Footwear",45.00,850,382500.00,133875.00,0.35,Outlet
+Walmart,1197831,2020-09-07,South,Texas,Houston,"Women's ","Street Footwear",50.00,900,450000.00,157500.00,0.35,Outlet
+Walmart,1197831,2020-09-08,South,Texas,Houston,"Women's ","Athletic Footwear",50.00,625,312500.00,140625.00,0.45,Outlet
+Walmart,1197831,2020-09-09,South,Texas,Houston,"Men's ",Apparel,45.00,625,281250.00,84375.00,0.30,Outlet
+Walmart,1197831,2020-09-10,South,Texas,Houston,"Women's ",Apparel,55.00,850,467500.00,233750.00,0.50,Outlet
+Walmart,1197831,2020-09-11,South,Texas,Houston,"Men's ","Street Footwear",45.00,800,360000.00,126000.00,0.35,Outlet
+Walmart,1197831,2020-09-12,South,Texas,Houston,"Men's ","Athletic Footwear",45.00,800,360000.00,126000.00,0.35,Outlet
+Walmart,1197831,2020-09-13,South,Texas,Houston,"Women's ","Street Footwear",50.00,750,375000.00,131250.00,0.35,Outlet
+Walmart,1197831,2020-09-14,South,Texas,Houston,"Women's ","Athletic Footwear",50.00,600,300000.00,135000.00,0.45,Outlet
+Walmart,1197831,2020-09-15,South,Texas,Houston,"Men's ",Apparel,45.00,575,258750.00,77625.00,0.30,Outlet
+Walmart,1197831,2020-09-16,South,Texas,Houston,"Women's ",Apparel,55.00,750,412500.00,206250.00,0.50,Outlet
+Walmart,1197831,2020-10-20,South,Texas,Houston,"Men's ","Street Footwear",45.00,900,405000.00,141750.00,0.35,Outlet
+Walmart,1197831,2020-10-21,South,Texas,Houston,"Men's ","Athletic Footwear",45.00,900,405000.00,141750.00,0.35,Outlet
+Walmart,1197831,2020-10-22,South,Texas,Houston,"Women's ","Street Footwear",50.00,825,412500.00,144375.00,0.35,Outlet
+Walmart,1197831,2020-10-23,South,Texas,Houston,"Women's ","Athletic Footwear",50.00,675,337500.00,151875.00,0.45,Outlet
+Walmart,1197831,2020-10-24,South,Texas,Houston,"Men's ",Apparel,45.00,650,292500.00,87750.00,0.30,Outlet
+Walmart,1197831,2020-10-25,South,Texas,Houston,"Women's ",Apparel,55.00,850,467500.00,233750.00,0.50,Outlet
+Walmart,1197831,2020-10-26,South,Texas,Houston,"Men's ","Street Footwear",45.00,950,427500.00,149625.00,0.35,Outlet
+Walmart,1197831,2020-10-27,South,Texas,Houston,"Men's ","Athletic Footwear",45.00,950,427500.00,149625.00,0.35,Outlet
+Walmart,1197831,2020-10-28,South,Texas,Houston,"Women's ","Street Footwear",50.00,850,425000.00,148750.00,0.35,Outlet
+Walmart,1197831,2020-10-29,South,Texas,Houston,"Women's ","Athletic Footwear",50.00,700,350000.00,157500.00,0.45,Outlet
+Walmart,1197831,2020-10-30,South,Texas,Houston,"Men's ",Apparel,45.00,650,292500.00,87750.00,0.30,Outlet
+Walmart,1197831,2020-10-31,South,Texas,Houston,"Women's ",Apparel,55.00,900,495000.00,247500.00,0.50,Outlet
+"West Gear",1128299,2020-11-01,South,Texas,Houston,"Men's ","Street Footwear",40.00,775,310000.00,108500.00,0.35,Outlet
+"West Gear",1128299,2020-11-02,South,Texas,Houston,"Men's ","Athletic Footwear",50.00,775,387500.00,77500.00,0.20,Outlet
+"West Gear",1128299,2020-11-03,South,Texas,Houston,"Women's ","Street Footwear",50.00,775,387500.00,135625.00,0.35,Outlet
+"West Gear",1128299,2020-11-04,South,Texas,Houston,"Women's ","Athletic Footwear",50.00,625,312500.00,93750.00,0.30,Outlet
+"West Gear",1128299,2020-11-05,West,California,"San Francisco","Men's ",Apparel,55.00,575,316250.00,158125.00,0.50,Outlet
+"West Gear",1128299,2020-11-06,West,California,"San Francisco","Women's ",Apparel,50.00,775,387500.00,58125.00,0.15,Outlet
+"West Gear",1128299,2020-11-07,West,California,"San Francisco","Men's ","Street Footwear",40.00,825,330000.00,115500.00,0.35,Outlet
+"West Gear",1128299,2020-11-08,West,California,"San Francisco","Men's ","Athletic Footwear",50.00,725,362500.00,72500.00,0.20,Outlet
+"West Gear",1128299,2020-11-09,West,California,"San Francisco","Women's ","Street Footwear",50.00,725,362500.00,126875.00,0.35,Outlet
+"West Gear",1128299,2020-11-10,West,California,"San Francisco","Women's ","Athletic Footwear",50.00,575,287500.00,86250.00,0.30,Outlet
+"West Gear",1128299,2020-11-11,West,California,"San Francisco","Men's ",Apparel,55.00,500,275000.00,137500.00,0.50,Outlet
+"West Gear",1128299,2020-11-12,West,California,"San Francisco","Women's ",Apparel,50.00,700,350000.00,52500.00,0.15,Outlet
+"West Gear",1128299,2020-11-13,West,California,"San Francisco","Men's ","Street Footwear",50.00,850,425000.00,148750.00,0.35,Outlet
+"West Gear",1128299,2020-11-14,West,California,"San Francisco","Men's ","Athletic Footwear",60.00,700,420000.00,84000.00,0.20,Outlet
+"West Gear",1128299,2020-11-15,West,California,"San Francisco","Women's ","Street Footwear",60.00,700,420000.00,147000.00,0.35,Outlet
+"West Gear",1128299,2020-12-22,West,California,"San Francisco","Women's ","Athletic Footwear",60.00,600,360000.00,108000.00,0.30,Outlet
+"West Gear",1128299,2020-12-23,West,California,"San Francisco","Men's ",Apparel,65.00,500,325000.00,162500.00,0.50,Outlet
+"West Gear",1128299,2020-12-24,West,California,"San Francisco","Women's ",Apparel,60.00,700,420000.00,63000.00,0.15,Outlet
+"West Gear",1128299,2020-12-25,West,California,"San Francisco","Men's ","Street Footwear",60.00,875,525000.00,183750.00,0.35,Outlet
+"West Gear",1128299,2020-12-26,West,California,"San Francisco","Men's ","Athletic Footwear",65.00,675,438750.00,87750.00,0.20,Outlet
+"West Gear",1128299,2020-12-27,West,California,"San Francisco","Women's ","Street Footwear",65.00,725,471250.00,164937.50,0.35,Outlet
+"West Gear",1128299,2020-12-28,West,California,"San Francisco","Women's ","Athletic Footwear",60.00,625,375000.00,112500.00,0.30,Outlet
+"West Gear",1128299,2020-12-29,West,California,"San Francisco","Men's ",Apparel,65.00,525,341250.00,170625.00,0.50,Outlet
+"West Gear",1128299,2020-12-30,West,California,"San Francisco","Women's ",Apparel,80.00,700,560000.00,84000.00,0.15,Outlet
+"West Gear",1128299,2020-12-31,West,California,"San Francisco","Men's ","Street Footwear",60.00,900,540000.00,216000.00,0.40,Outlet
+"West Gear",1128299,2021-01-01,West,California,"San Francisco","Men's ","Athletic Footwear",65.00,750,487500.00,121875.00,0.25,Outlet
+"West Gear",1128299,2021-01-02,West,California,"San Francisco","Women's ","Street Footwear",65.00,750,487500.00,195000.00,0.40,Outlet
+"West Gear",1128299,2021-01-03,West,California,"San Francisco","Women's ","Athletic Footwear",60.00,650,390000.00,136500.00,0.35,Outlet
+"West Gear",1128299,2021-01-04,West,California,"San Francisco","Men's ",Apparel,65.00,550,357500.00,196625.00,0.55,Outlet
+"West Gear",1128299,2021-01-05,West,California,"San Francisco","Women's ",Apparel,80.00,725,580000.00,116000.00,0.20,Outlet
+"West Gear",1128299,2021-01-06,West,California,"San Francisco","Men's ","Street Footwear",60.00,975,585000.00,234000.00,0.40,Outlet
+"West Gear",1128299,2021-01-07,West,California,"San Francisco","Men's ","Athletic Footwear",65.00,825,536250.00,134062.50,0.25,Outlet
+"West Gear",1128299,2021-01-08,West,California,"San Francisco","Women's ","Street Footwear",65.00,825,536250.00,214500.00,0.40,Outlet
+"West Gear",1128299,2021-01-09,West,California,"San Francisco","Women's ","Athletic Footwear",60.00,700,420000.00,147000.00,0.35,Outlet
+"West Gear",1128299,2021-01-10,West,California,"San Francisco","Men's ",Apparel,65.00,575,373750.00,205562.50,0.55,Outlet
+"West Gear",1128299,2021-01-11,West,California,"San Francisco","Women's ",Apparel,80.00,875,700000.00,140000.00,0.20,Outlet
+"West Gear",1128299,2021-01-12,West,California,"San Francisco","Men's ","Street Footwear",60.00,1025,615000.00,215250.00,0.35,Outlet
+"West Gear",1128299,2021-01-13,West,California,"San Francisco","Men's ","Athletic Footwear",65.00,875,568750.00,113750.00,0.20,Outlet
+"West Gear",1128299,2021-01-14,West,California,"San Francisco","Women's ","Street Footwear",65.00,825,536250.00,187687.50,0.35,Outlet
+"West Gear",1128299,2021-01-15,West,California,"San Francisco","Women's ","Athletic Footwear",60.00,725,435000.00,130500.00,0.30,Outlet
+"West Gear",1128299,2021-01-16,West,California,"San Francisco","Men's ",Apparel,65.00,775,503750.00,251875.00,0.50,Outlet
+"West Gear",1128299,2021-01-17,West,California,"San Francisco","Women's ",Apparel,80.00,775,620000.00,93000.00,0.15,Outlet
+"West Gear",1128299,2021-01-18,West,California,"San Francisco","Men's ","Street Footwear",65.00,975,633750.00,221812.50,0.35,Outlet
+"West Gear",1128299,2021-01-19,West,California,"San Francisco","Men's ","Athletic Footwear",70.00,925,647500.00,129500.00,0.20,Outlet
+"West Gear",1128299,2021-01-20,West,California,"San Francisco","Women's ","Street Footwear",65.00,800,520000.00,182000.00,0.35,Outlet
+"West Gear",1128299,2021-01-21,West,California,"San Francisco","Women's ","Athletic Footwear",65.00,750,487500.00,146250.00,0.30,Outlet
+"West Gear",1128299,2021-01-22,West,California,"San Francisco","Men's ",Apparel,75.00,750,562500.00,281250.00,0.50,Outlet
+"West Gear",1128299,2021-01-23,West,California,"San Francisco","Women's ",Apparel,80.00,725,580000.00,87000.00,0.15,Outlet
+"West Gear",1128299,2021-01-24,West,California,"San Francisco","Men's ","Street Footwear",55.00,925,508750.00,152625.00,0.30,Outlet
+"West Gear",1128299,2021-01-25,West,California,"San Francisco","Men's ","Athletic Footwear",60.00,925,555000.00,83250.00,0.15,Outlet
+"West Gear",1128299,2021-01-26,West,California,"San Francisco","Women's ","Street Footwear",55.00,775,426250.00,127875.00,0.30,Outlet
+"West Gear",1128299,2021-01-27,West,California,"San Francisco","Women's ","Athletic Footwear",55.00,725,398750.00,99687.50,0.25,Outlet
+"West Gear",1128299,2021-01-28,West,California,"San Francisco","Men's ",Apparel,65.00,725,471250.00,212062.50,0.45,Outlet
+"West Gear",1128299,2021-01-29,West,California,"San Francisco","Women's ",Apparel,70.00,775,542500.00,54250.00,0.10,Outlet
+"West Gear",1128299,2021-01-30,West,California,"San Francisco","Men's ","Street Footwear",55.00,875,481250.00,144375.00,0.30,Outlet
+"West Gear",1128299,2021-01-31,West,California,"San Francisco","Men's ","Athletic Footwear",60.00,875,525000.00,78750.00,0.15,Outlet
+"West Gear",1128299,2021-02-01,West,California,"San Francisco","Women's ","Street Footwear",55.00,700,385000.00,115500.00,0.30,Outlet
+"West Gear",1128299,2021-02-02,West,California,"San Francisco","Women's ","Athletic Footwear",55.00,675,371250.00,92812.50,0.25,Outlet
+"West Gear",1128299,2021-02-03,West,California,"San Francisco","Men's ",Apparel,65.00,650,422500.00,190125.00,0.45,Outlet
+"West Gear",1128299,2021-02-04,West,California,"San Francisco","Women's ",Apparel,70.00,700,490000.00,49000.00,0.10,Outlet
+"West Gear",1128299,2021-02-05,West,California,"San Francisco","Men's ","Street Footwear",55.00,875,481250.00,144375.00,0.30,Outlet
+"West Gear",1128299,2021-02-06,West,California,"San Francisco","Men's ","Athletic Footwear",60.00,875,525000.00,78750.00,0.15,Outlet
+"West Gear",1128299,2021-02-07,West,California,"San Francisco","Women's ","Street Footwear",55.00,725,398750.00,119625.00,0.30,Outlet
+"West Gear",1128299,2021-02-08,West,California,"San Francisco","Women's ","Athletic Footwear",55.00,700,385000.00,96250.00,0.25,Outlet
+"West Gear",1128299,2021-02-09,West,California,"San Francisco","Men's ",Apparel,65.00,650,422500.00,190125.00,0.45,Outlet
+"West Gear",1128299,2021-02-10,West,California,"San Francisco","Women's ",Apparel,70.00,775,542500.00,54250.00,0.10,Outlet
+"West Gear",1128299,2021-02-11,West,California,"San Francisco","Men's ","Street Footwear",55.00,975,536250.00,160875.00,0.30,Outlet
+"West Gear",1128299,2021-02-12,West,California,"San Francisco","Men's ","Athletic Footwear",60.00,975,585000.00,87750.00,0.15,Outlet
+"West Gear",1128299,2021-02-13,West,California,"San Francisco","Women's ","Street Footwear",55.00,775,426250.00,127875.00,0.30,Outlet
+"West Gear",1128299,2021-02-14,West,California,"San Francisco","Women's ","Athletic Footwear",55.00,775,426250.00,106562.50,0.25,Outlet
+"West Gear",1128299,2021-02-15,West,California,"San Francisco","Men's ",Apparel,65.00,700,455000.00,204750.00,0.45,Outlet
+"West Gear",1128299,2021-02-16,West,California,"San Francisco","Women's ",Apparel,70.00,800,560000.00,56000.00,0.10,Outlet
+Kohl's,1189833,2021-02-17,West,California,"San Francisco","Men's ","Street Footwear",35.00,700,245000.00,98000.00,0.40,Outlet
+Kohl's,1189833,2021-02-18,West,California,"San Francisco","Men's ","Athletic Footwear",45.00,700,315000.00,78750.00,0.25,Outlet
+Kohl's,1189833,2021-03-09,West,California,"San Francisco","Women's ","Street Footwear",45.00,700,315000.00,126000.00,0.40,Outlet
+Kohl's,1189833,2021-03-10,West,California,"San Francisco","Women's ","Athletic Footwear",45.00,550,247500.00,86625.00,0.35,Outlet
+Kohl's,1189833,2021-03-11,West,California,"Los Angeles","Men's ",Apparel,50.00,500,250000.00,137500.00,0.55,Outlet
+Kohl's,1189833,2021-03-12,West,California,"Los Angeles","Women's ",Apparel,45.00,700,315000.00,63000.00,0.20,Outlet
+Kohl's,1189833,2021-03-13,West,California,"Los Angeles","Men's ","Street Footwear",35.00,750,262500.00,105000.00,0.40,Outlet
+Kohl's,1189833,2021-03-14,West,California,"Los Angeles","Men's ","Athletic Footwear",45.00,650,292500.00,73125.00,0.25,Outlet
+Kohl's,1189833,2021-03-15,West,California,"Los Angeles","Women's ","Street Footwear",45.00,675,303750.00,121500.00,0.40,Outlet
+Kohl's,1189833,2021-03-16,West,California,"Los Angeles","Women's ","Athletic Footwear",45.00,525,236250.00,82687.50,0.35,Outlet
+Kohl's,1189833,2021-03-17,West,California,"Los Angeles","Men's ",Apparel,50.00,450,225000.00,123750.00,0.55,Outlet
+Kohl's,1189833,2021-03-18,West,California,"Los Angeles","Women's ",Apparel,45.00,650,292500.00,58500.00,0.20,Outlet
+Kohl's,1189833,2021-03-19,West,California,"Los Angeles","Men's ","Street Footwear",35.00,800,280000.00,112000.00,0.40,Outlet
+Kohl's,1189833,2021-03-20,West,California,"Los Angeles","Men's ","Athletic Footwear",45.00,650,292500.00,73125.00,0.25,Outlet
+Kohl's,1189833,2021-03-21,West,California,"Los Angeles","Women's ","Street Footwear",45.00,650,292500.00,117000.00,0.40,Outlet
+Kohl's,1189833,2021-03-22,West,California,"Los Angeles","Women's ","Athletic Footwear",45.00,550,247500.00,86625.00,0.35,Outlet
+Kohl's,1189833,2021-03-23,West,California,"Los Angeles","Men's ",Apparel,50.00,425,212500.00,116875.00,0.55,Outlet
+Kohl's,1189833,2021-04-06,West,California,"Los Angeles","Women's ",Apparel,45.00,625,281250.00,56250.00,0.20,Outlet
+Kohl's,1189833,2021-04-07,West,California,"Los Angeles","Men's ","Street Footwear",45.00,800,360000.00,144000.00,0.40,Outlet
+Kohl's,1189833,2021-04-08,West,California,"Los Angeles","Men's ","Athletic Footwear",50.00,600,300000.00,75000.00,0.25,Outlet
+Kohl's,1189833,2021-04-09,West,California,"Los Angeles","Women's ","Street Footwear",50.00,625,312500.00,125000.00,0.40,Outlet
+Kohl's,1189833,2021-04-10,West,California,"Los Angeles","Women's ","Athletic Footwear",45.00,525,236250.00,82687.50,0.35,Outlet
+Kohl's,1189833,2021-04-11,West,California,"Los Angeles","Men's ",Apparel,50.00,425,212500.00,116875.00,0.55,Outlet
+Kohl's,1189833,2021-04-12,West,California,"Los Angeles","Women's ",Apparel,65.00,600,390000.00,78000.00,0.20,Outlet
+Kohl's,1189833,2021-04-13,West,California,"Los Angeles","Men's ","Street Footwear",45.00,800,360000.00,144000.00,0.40,Outlet
+Kohl's,1189833,2021-04-14,West,California,"Los Angeles","Men's ","Athletic Footwear",50.00,650,325000.00,81250.00,0.25,Outlet
+Kohl's,1189833,2021-04-15,West,California,"Los Angeles","Women's ","Street Footwear",50.00,650,325000.00,130000.00,0.40,Outlet
+Kohl's,1189833,2021-04-16,West,California,"Los Angeles","Women's ","Athletic Footwear",45.00,550,247500.00,86625.00,0.35,Outlet
+Kohl's,1189833,2021-04-17,West,California,"Los Angeles","Men's ",Apparel,50.00,450,225000.00,123750.00,0.55,Outlet
+Kohl's,1189833,2021-04-18,West,California,"Los Angeles","Women's ",Apparel,65.00,625,406250.00,81250.00,0.20,Outlet
+Kohl's,1189833,2021-04-19,West,California,"Los Angeles","Men's ","Street Footwear",45.00,900,405000.00,162000.00,0.40,Outlet
+Kohl's,1189833,2021-04-20,West,California,"Los Angeles","Men's ","Athletic Footwear",50.00,750,375000.00,93750.00,0.25,Outlet
+Kohl's,1189833,2021-04-21,West,California,"Los Angeles","Women's ","Street Footwear",50.00,750,375000.00,150000.00,0.40,Outlet
+Kohl's,1189833,2021-04-22,West,California,"Los Angeles","Women's ","Athletic Footwear",45.00,625,281250.00,98437.50,0.35,Outlet
+Kohl's,1189833,2021-04-23,West,California,"Los Angeles","Men's ",Apparel,50.00,500,250000.00,137500.00,0.55,Outlet
+Kohl's,1189833,2021-04-24,West,California,"Los Angeles","Women's ",Apparel,65.00,800,520000.00,104000.00,0.20,Outlet
+Kohl's,1189833,2021-04-25,West,California,"Los Angeles","Men's ","Street Footwear",45.00,950,427500.00,171000.00,0.40,Outlet
+Kohl's,1189833,2021-04-26,West,California,"Los Angeles","Men's ","Athletic Footwear",50.00,800,400000.00,100000.00,0.25,Outlet
+Kohl's,1189833,2021-04-27,West,California,"Los Angeles","Women's ","Street Footwear",50.00,750,375000.00,150000.00,0.40,Outlet
+Kohl's,1189833,2021-04-28,West,California,"Los Angeles","Women's ","Athletic Footwear",45.00,650,292500.00,102375.00,0.35,Outlet
+Kohl's,1189833,2021-04-29,West,California,"Los Angeles","Men's ",Apparel,50.00,700,350000.00,192500.00,0.55,Outlet
+Kohl's,1189833,2021-04-30,West,California,"Los Angeles","Women's ",Apparel,65.00,700,455000.00,91000.00,0.20,Outlet
+Kohl's,1189833,2021-05-01,West,California,"Los Angeles","Men's ","Street Footwear",50.00,900,450000.00,180000.00,0.40,Outlet
+Kohl's,1189833,2021-05-02,West,California,"Los Angeles","Men's ","Athletic Footwear",55.00,850,467500.00,116875.00,0.25,Outlet
+Kohl's,1189833,2021-05-03,West,California,"Los Angeles","Women's ","Street Footwear",50.00,725,362500.00,145000.00,0.40,Outlet
+Kohl's,1189833,2021-05-04,West,California,"Los Angeles","Women's ","Athletic Footwear",50.00,675,337500.00,118125.00,0.35,Outlet
+Kohl's,1189833,2021-05-05,West,California,"Los Angeles","Men's ",Apparel,60.00,675,405000.00,222750.00,0.55,Outlet
+Kohl's,1189833,2021-05-06,West,California,"Los Angeles","Women's ",Apparel,65.00,650,422500.00,84500.00,0.20,Outlet
+Kohl's,1189833,2021-05-07,West,California,"Los Angeles","Men's ","Street Footwear",50.00,850,425000.00,170000.00,0.40,Outlet
+Kohl's,1189833,2021-05-08,West,California,"Los Angeles","Men's ","Athletic Footwear",55.00,850,467500.00,116875.00,0.25,Outlet
+Kohl's,1189833,2021-05-09,West,California,"Los Angeles","Women's ","Street Footwear",50.00,700,350000.00,140000.00,0.40,Outlet
+Kohl's,1189833,2021-05-10,West,California,"Los Angeles","Women's ","Athletic Footwear",50.00,650,325000.00,113750.00,0.35,Outlet
+Kohl's,1189833,2021-05-11,West,California,"Los Angeles","Men's ",Apparel,60.00,650,390000.00,214500.00,0.55,Outlet
+Kohl's,1189833,2021-05-12,West,California,"Los Angeles","Women's ",Apparel,65.00,700,455000.00,91000.00,0.20,Outlet
+Kohl's,1189833,2021-05-13,West,California,"Los Angeles","Men's ","Street Footwear",50.00,800,400000.00,160000.00,0.40,Outlet
+Kohl's,1189833,2021-05-14,West,California,"Los Angeles","Men's ","Athletic Footwear",55.00,800,440000.00,110000.00,0.25,Outlet
+Kohl's,1189833,2021-05-15,West,California,"Los Angeles","Women's ","Street Footwear",50.00,650,325000.00,130000.00,0.40,Outlet
+Kohl's,1189833,2021-05-16,West,California,"Los Angeles","Women's ","Athletic Footwear",50.00,625,312500.00,109375.00,0.35,Outlet
+Kohl's,1189833,2021-05-17,West,California,"Los Angeles","Men's ",Apparel,60.00,600,360000.00,198000.00,0.55,Outlet
+Kohl's,1189833,2021-05-18,West,California,"Los Angeles","Women's ",Apparel,65.00,650,422500.00,84500.00,0.20,Outlet
+Kohl's,1189833,2021-05-19,West,California,"Los Angeles","Men's ","Street Footwear",50.00,825,412500.00,165000.00,0.40,Outlet
+Kohl's,1189833,2021-05-20,West,California,"Los Angeles","Men's ","Athletic Footwear",55.00,825,453750.00,113437.50,0.25,Outlet
+Kohl's,1189833,2021-05-21,West,California,"Los Angeles","Women's ","Street Footwear",50.00,675,337500.00,135000.00,0.40,Outlet
+Kohl's,1189833,2021-05-22,West,California,"Los Angeles","Women's ","Athletic Footwear",50.00,650,325000.00,113750.00,0.35,Outlet
+Kohl's,1189833,2021-05-23,West,California,"Los Angeles","Men's ",Apparel,60.00,600,360000.00,198000.00,0.55,Outlet
+Kohl's,1189833,2021-05-24,West,California,"Los Angeles","Women's ",Apparel,65.00,700,455000.00,91000.00,0.20,Outlet
+Kohl's,1189833,2021-05-25,West,California,"Los Angeles","Men's ","Street Footwear",50.00,900,450000.00,180000.00,0.40,Outlet
+Kohl's,1189833,2021-05-26,West,California,"Los Angeles","Men's ","Athletic Footwear",55.00,900,495000.00,123750.00,0.25,Outlet
+Kohl's,1189833,2021-05-27,West,California,"Los Angeles","Women's ","Street Footwear",50.00,700,350000.00,140000.00,0.40,Outlet
+Kohl's,1189833,2021-05-28,West,California,"Los Angeles","Women's ","Athletic Footwear",50.00,700,350000.00,122500.00,0.35,Outlet
+Kohl's,1189833,2021-05-29,West,California,"Los Angeles","Men's ",Apparel,60.00,625,375000.00,206250.00,0.55,Outlet
+Kohl's,1189833,2021-05-30,West,California,"Los Angeles","Women's ",Apparel,65.00,725,471250.00,94250.00,0.20,Outlet
+"Foot Locker",1185732,2021-05-31,West,California,"Los Angeles","Men's ","Street Footwear",45.00,475,213750.00,85500.00,0.40,Outlet
+"Foot Locker",1185732,2021-06-01,West,California,"Los Angeles","Men's ","Athletic Footwear",45.00,275,123750.00,43312.50,0.35,Outlet
+"Foot Locker",1185732,2021-06-02,West,California,"Los Angeles","Women's ","Street Footwear",35.00,275,96250.00,33687.50,0.35,Outlet
+"Foot Locker",1185732,2021-06-03,West,California,"Los Angeles","Women's ","Athletic Footwear",40.00,125,50000.00,20000.00,0.40,Outlet
+"Foot Locker",1185732,2021-06-04,Midwest,Illinois,Chicago,"Men's ",Apparel,55.00,175,96250.00,33687.50,0.35,Outlet
+"Foot Locker",1185732,2021-06-05,Midwest,Illinois,Chicago,"Women's ",Apparel,45.00,275,123750.00,61875.00,0.50,Outlet
+"Foot Locker",1185732,2021-06-06,Midwest,Illinois,Chicago,"Men's ","Street Footwear",45.00,525,236250.00,94500.00,0.40,Outlet
+"Foot Locker",1185732,2021-06-07,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",45.00,175,78750.00,27562.50,0.35,Outlet
+"Foot Locker",1185732,2021-06-08,Midwest,Illinois,Chicago,"Women's ","Street Footwear",35.00,225,78750.00,27562.50,0.35,Outlet
+"Foot Locker",1185732,2021-06-09,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",40.00,100,40000.00,16000.00,0.40,Outlet
+"Foot Locker",1185732,2021-06-10,Midwest,Illinois,Chicago,"Men's ",Apparel,55.00,175,96250.00,33687.50,0.35,Outlet
+"Foot Locker",1185732,2021-06-11,Midwest,Illinois,Chicago,"Women's ",Apparel,45.00,275,123750.00,61875.00,0.50,Outlet
+"Foot Locker",1185732,2021-06-12,Midwest,Illinois,Chicago,"Men's ","Street Footwear",50.00,495,247500.00,99000.00,0.40,Outlet
+"Foot Locker",1185732,2021-06-13,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",50.00,200,100000.00,35000.00,0.35,Outlet
+"Foot Locker",1185732,2021-06-14,Midwest,Illinois,Chicago,"Women's ","Street Footwear",40.00,225,90000.00,31500.00,0.35,Outlet
+"Foot Locker",1185732,2021-06-15,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",45.00,75,33750.00,13500.00,0.40,Outlet
+"Foot Locker",1185732,2021-06-16,Midwest,Illinois,Chicago,"Men's ",Apparel,60.00,125,75000.00,26250.00,0.35,Outlet
+"Foot Locker",1185732,2021-06-17,Midwest,Illinois,Chicago,"Women's ",Apparel,50.00,225,112500.00,56250.00,0.50,Outlet
+"Foot Locker",1185732,2021-06-18,Midwest,Illinois,Chicago,"Men's ","Street Footwear",50.00,450,225000.00,90000.00,0.40,Outlet
+"Foot Locker",1185732,2021-06-19,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",50.00,150,75000.00,26250.00,0.35,Outlet
+"Foot Locker",1185732,2021-06-20,Midwest,Illinois,Chicago,"Women's ","Street Footwear",40.00,150,60000.00,21000.00,0.35,Outlet
+"Foot Locker",1185732,2021-06-21,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",45.00,75,33750.00,13500.00,0.40,Outlet
+"Foot Locker",1185732,2021-06-22,Midwest,Illinois,Chicago,"Men's ",Apparel,60.00,100,60000.00,21000.00,0.35,Outlet
+"Foot Locker",1185732,2021-06-23,Midwest,Illinois,Chicago,"Women's ",Apparel,50.00,225,112500.00,56250.00,0.50,Outlet
+"Foot Locker",1185732,2021-06-24,Midwest,Illinois,Chicago,"Men's ","Street Footwear",60.00,495,297000.00,118800.00,0.40,Outlet
+"Foot Locker",1185732,2021-06-25,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",55.00,200,110000.00,38500.00,0.35,Outlet
+"Foot Locker",1185732,2021-06-26,Midwest,Illinois,Chicago,"Women's ","Street Footwear",50.00,175,87500.00,30625.00,0.35,Outlet
+"Foot Locker",1185732,2021-06-27,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",50.00,100,50000.00,20000.00,0.40,Outlet
+"Foot Locker",1185732,2021-06-28,Midwest,Illinois,Chicago,"Men's ",Apparel,60.00,125,75000.00,26250.00,0.35,Outlet
+"Foot Locker",1185732,2021-06-29,Midwest,Illinois,Chicago,"Women's ",Apparel,65.00,250,162500.00,81250.00,0.50,Outlet
+"Foot Locker",1185732,2021-06-30,Midwest,Illinois,Chicago,"Men's ","Street Footwear",50.00,500,250000.00,100000.00,0.40,Outlet
+"Foot Locker",1185732,2021-07-01,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",45.00,250,112500.00,39375.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-02,Midwest,Illinois,Chicago,"Women's ","Street Footwear",40.00,200,80000.00,28000.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-03,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",40.00,175,70000.00,28000.00,0.40,Outlet
+"Foot Locker",1185732,2021-07-04,Midwest,Illinois,Chicago,"Men's ",Apparel,50.00,175,87500.00,30625.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-05,Midwest,Illinois,Chicago,"Women's ",Apparel,55.00,350,192500.00,96250.00,0.50,Outlet
+"Foot Locker",1185732,2021-07-06,Midwest,Illinois,Chicago,"Men's ","Street Footwear",50.00,575,287500.00,115000.00,0.40,Outlet
+"Foot Locker",1185732,2021-07-07,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",45.00,325,146250.00,51187.50,0.35,Outlet
+"Foot Locker",1185732,2021-07-08,Midwest,Illinois,Chicago,"Women's ","Street Footwear",40.00,250,100000.00,35000.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-09,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",40.00,200,80000.00,32000.00,0.40,Outlet
+"Foot Locker",1185732,2021-07-10,Midwest,Illinois,Chicago,"Men's ",Apparel,50.00,225,112500.00,39375.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-11,Midwest,Illinois,Chicago,"Women's ",Apparel,55.00,400,220000.00,110000.00,0.50,Outlet
+"Foot Locker",1185732,2021-07-12,Midwest,Illinois,Chicago,"Men's ","Street Footwear",50.00,550,275000.00,110000.00,0.40,Outlet
+"Foot Locker",1185732,2021-07-13,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",45.00,325,146250.00,51187.50,0.35,Outlet
+"Foot Locker",1185732,2021-07-14,Midwest,Illinois,Chicago,"Women's ","Street Footwear",40.00,250,100000.00,35000.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-15,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",40.00,225,90000.00,36000.00,0.40,Outlet
+"Foot Locker",1185732,2021-07-16,Midwest,Illinois,Chicago,"Men's ",Apparel,50.00,200,100000.00,35000.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-17,Midwest,Illinois,Chicago,"Women's ",Apparel,55.00,375,206250.00,103125.00,0.50,Outlet
+"Foot Locker",1185732,2021-07-18,Midwest,Illinois,Chicago,"Men's ","Street Footwear",50.00,500,250000.00,100000.00,0.40,Outlet
+"Foot Locker",1185732,2021-07-19,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",45.00,300,135000.00,47250.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-20,Midwest,Illinois,Chicago,"Women's ","Street Footwear",40.00,200,80000.00,28000.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-21,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",40.00,175,70000.00,28000.00,0.40,Outlet
+"Foot Locker",1185732,2021-07-22,Midwest,Illinois,Chicago,"Men's ",Apparel,50.00,175,87500.00,30625.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-23,Midwest,Illinois,Chicago,"Women's ",Apparel,55.00,250,137500.00,68750.00,0.50,Outlet
+"Foot Locker",1185732,2021-07-24,Midwest,Illinois,Chicago,"Men's ","Street Footwear",60.00,425,255000.00,102000.00,0.40,Outlet
+"Foot Locker",1185732,2021-07-25,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",50.00,250,125000.00,43750.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-26,Midwest,Illinois,Chicago,"Women's ","Street Footwear",50.00,150,75000.00,26250.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-27,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",50.00,125,62500.00,25000.00,0.40,Outlet
+"Foot Locker",1185732,2021-07-28,Midwest,Illinois,Chicago,"Men's ",Apparel,60.00,125,75000.00,26250.00,0.35,Outlet
+"Foot Locker",1185732,2021-07-29,Midwest,Illinois,Chicago,"Women's ",Apparel,65.00,250,162500.00,81250.00,0.50,Outlet
+"Foot Locker",1185732,2021-07-30,Midwest,Illinois,Chicago,"Men's ","Street Footwear",60.00,400,240000.00,96000.00,0.40,Outlet
+"Foot Locker",1185732,2021-07-31,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",50.00,250,125000.00,43750.00,0.35,Outlet
+"Foot Locker",1185732,2021-08-01,Midwest,Illinois,Chicago,"Women's ","Street Footwear",50.00,195,97500.00,34125.00,0.35,Outlet
+"Foot Locker",1185732,2021-08-02,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",50.00,175,87500.00,35000.00,0.40,Outlet
+"Foot Locker",1185732,2021-08-03,Midwest,Illinois,Chicago,"Men's ",Apparel,60.00,150,90000.00,31500.00,0.35,Outlet
+"Foot Locker",1185732,2021-08-04,Midwest,Illinois,Chicago,"Women's ",Apparel,65.00,250,162500.00,81250.00,0.50,Outlet
+"Foot Locker",1185732,2021-08-05,Midwest,Illinois,Chicago,"Men's ","Street Footwear",60.00,500,300000.00,120000.00,0.40,Outlet
+"Foot Locker",1185732,2021-08-06,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",50.00,300,150000.00,52500.00,0.35,Outlet
+"Foot Locker",1185732,2021-08-07,Midwest,Illinois,Chicago,"Women's ","Street Footwear",50.00,250,125000.00,43750.00,0.35,Outlet
+"Foot Locker",1185732,2021-08-08,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",50.00,200,100000.00,40000.00,0.40,Outlet
+"Foot Locker",1185732,2021-08-09,Midwest,Illinois,Chicago,"Men's ",Apparel,60.00,200,120000.00,42000.00,0.35,Outlet
+"Foot Locker",1185732,2021-08-10,Midwest,Illinois,Chicago,"Women's ",Apparel,65.00,300,195000.00,97500.00,0.50,Outlet
+"Sports Direct",1197831,2021-08-11,Midwest,Illinois,Chicago,"Men's ","Street Footwear",20.00,725,145000.00,43500.00,0.30,Outlet
+"Sports Direct",1197831,2021-08-12,Midwest,Illinois,Chicago,"Men's ","Athletic Footwear",30.00,725,217500.00,65250.00,0.30,Outlet
+"Sports Direct",1197831,2021-08-13,Midwest,Illinois,Chicago,"Women's ","Street Footwear",30.00,525,157500.00,47250.00,0.30,Outlet
+"Sports Direct",1197831,2021-08-14,Midwest,Illinois,Chicago,"Women's ","Athletic Footwear",35.00,525,183750.00,73500.00,0.40,Outlet
+"Sports Direct",1197831,2021-08-15,South,Texas,Dallas,"Men's ",Apparel,40.00,375,150000.00,37500.00,0.25,Outlet
+"Sports Direct",1197831,2021-08-16,South,Texas,Dallas,"Women's ",Apparel,35.00,525,183750.00,82687.50,0.45,Outlet
+"Sports Direct",1197831,2021-08-17,South,Texas,Dallas,"Men's ","Street Footwear",25.00,675,168750.00,50625.00,0.30,Outlet
+"Sports Direct",1197831,2021-08-18,South,Texas,Dallas,"Men's ","Athletic Footwear",35.00,650,227500.00,68250.00,0.30,Outlet
+"Sports Direct",1197831,2021-08-19,South,Texas,Dallas,"Women's ","Street Footwear",35.00,475,166250.00,49875.00,0.30,Outlet
+"Sports Direct",1197831,2021-08-20,South,Texas,Dallas,"Women's ","Athletic Footwear",35.00,425,148750.00,59500.00,0.40,Outlet
+"Sports Direct",1197831,2021-08-21,South,Texas,Dallas,"Men's ",Apparel,40.00,300,120000.00,30000.00,0.25,Outlet
+"Sports Direct",1197831,2021-08-22,South,Texas,Dallas,"Women's ",Apparel,35.00,500,175000.00,78750.00,0.45,Outlet
+"Sports Direct",1197831,2021-08-23,South,Texas,Dallas,"Men's ","Street Footwear",30.00,675,202500.00,70875.00,0.35,Outlet
+"Sports Direct",1197831,2021-08-24,South,Texas,Dallas,"Men's ","Athletic Footwear",40.00,675,270000.00,94500.00,0.35,Outlet
+"Sports Direct",1197831,2021-08-25,South,Texas,Dallas,"Women's ","Street Footwear",30.00,500,150000.00,52500.00,0.35,Outlet
+"Sports Direct",1197831,2021-08-26,South,Texas,Dallas,"Women's ","Athletic Footwear",35.00,400,140000.00,63000.00,0.45,Outlet
+"Sports Direct",1197831,2021-08-27,South,Texas,Dallas,"Men's ",Apparel,40.00,300,120000.00,36000.00,0.30,Outlet
+"Sports Direct",1197831,2021-08-28,South,Texas,Dallas,"Women's ",Apparel,35.00,450,157500.00,78750.00,0.50,Outlet
+"Sports Direct",1197831,2021-08-29,South,Texas,Dallas,"Men's ","Street Footwear",20.00,700,140000.00,49000.00,0.35,Outlet
+"Sports Direct",1197831,2021-08-30,South,Texas,Dallas,"Men's ","Athletic Footwear",30.00,700,210000.00,73500.00,0.35,Outlet
+"Sports Direct",1197831,2021-08-31,South,Texas,Dallas,"Women's ","Street Footwear",25.00,525,131250.00,45937.50,0.35,Outlet
+"Sports Direct",1197831,2021-09-01,South,Texas,Dallas,"Women's ","Athletic Footwear",30.00,425,127500.00,57375.00,0.45,Outlet
+"Sports Direct",1197831,2021-09-02,South,Texas,Dallas,"Men's ",Apparel,35.00,325,113750.00,34125.00,0.30,Outlet
+"Sports Direct",1197831,2021-09-03,South,Texas,Dallas,"Women's ",Apparel,30.00,600,180000.00,90000.00,0.50,Outlet
+"Sports Direct",1197831,2021-09-04,South,Texas,Dallas,"Men's ","Street Footwear",20.00,750,150000.00,52500.00,0.35,Outlet
+"Sports Direct",1197831,2021-09-05,South,Texas,Dallas,"Men's ","Athletic Footwear",30.00,775,232500.00,81375.00,0.35,Outlet
+"Sports Direct",1197831,2021-09-06,South,Texas,Dallas,"Women's ","Street Footwear",25.00,625,156250.00,54687.50,0.35,Outlet
+"Sports Direct",1197831,2021-09-07,South,Texas,Dallas,"Women's ","Athletic Footwear",35.00,550,192500.00,86625.00,0.45,Outlet
+"Sports Direct",1197831,2021-09-08,South,Texas,Dallas,"Men's ",Apparel,50.00,450,225000.00,67500.00,0.30,Outlet
+"Sports Direct",1197831,2021-09-09,South,Texas,Dallas,"Women's ",Apparel,45.00,800,360000.00,180000.00,0.50,Outlet
+"Sports Direct",1197831,2021-09-10,South,Texas,Dallas,"Men's ","Street Footwear",45.00,800,360000.00,126000.00,0.35,Outlet
+"Sports Direct",1197831,2021-09-11,South,Texas,Dallas,"Men's ","Athletic Footwear",50.00,800,400000.00,140000.00,0.35,Outlet
+"Sports Direct",1197831,2021-09-12,South,Texas,Dallas,"Women's ","Street Footwear",45.00,650,292500.00,102375.00,0.35,Outlet
+"Sports Direct",1197831,2021-09-13,South,Texas,Dallas,"Women's ","Athletic Footwear",45.00,600,270000.00,121500.00,0.45,Outlet
+"Sports Direct",1197831,2021-09-14,South,Texas,Dallas,"Men's ",Apparel,50.00,500,250000.00,75000.00,0.30,Outlet
+"Sports Direct",1197831,2021-09-15,South,Texas,Dallas,"Women's ",Apparel,55.00,875,481250.00,240625.00,0.50,Outlet
+"Sports Direct",1197831,2021-09-16,South,Texas,Dallas,"Men's ","Street Footwear",45.00,825,371250.00,148500.00,0.40,Outlet
+"Sports Direct",1197831,2021-09-17,South,Texas,Dallas,"Men's ","Athletic Footwear",50.00,825,412500.00,165000.00,0.40,Outlet
+"Sports Direct",1197831,2021-09-18,South,Texas,Dallas,"Women's ","Street Footwear",45.00,975,438750.00,175500.00,0.40,Outlet
+"Sports Direct",1197831,2021-09-19,South,Texas,Dallas,"Women's ","Athletic Footwear",45.00,575,258750.00,129375.00,0.50,Outlet
+"Sports Direct",1197831,2021-09-20,South,Texas,Dallas,"Men's ",Apparel,50.00,575,287500.00,100625.00,0.35,Outlet
+"Sports Direct",1197831,2021-09-21,South,Texas,Dallas,"Women's ",Apparel,60.00,850,510000.00,280500.00,0.55,Outlet
+"Sports Direct",1197831,2021-09-22,South,Texas,Dallas,"Men's ","Street Footwear",50.00,800,400000.00,160000.00,0.40,Outlet
+"Sports Direct",1197831,2021-09-23,South,Texas,Dallas,"Men's ","Athletic Footwear",55.00,800,440000.00,176000.00,0.40,Outlet
+"Sports Direct",1197831,2021-09-24,South,Texas,Dallas,"Women's ","Street Footwear",50.00,975,487500.00,195000.00,0.40,Outlet
+"Sports Direct",1197831,2021-09-25,South,Texas,Dallas,"Women's ","Athletic Footwear",50.00,525,262500.00,131250.00,0.50,Outlet
+"Sports Direct",1197831,2021-09-26,South,Texas,Dallas,"Men's ",Apparel,55.00,525,288750.00,101062.50,0.35,Outlet
+"Sports Direct",1197831,2021-09-27,South,Texas,Dallas,"Women's ",Apparel,60.00,775,465000.00,255750.00,0.55,Outlet
+"Sports Direct",1197831,2021-09-28,South,Texas,Dallas,"Men's ","Street Footwear",55.00,725,398750.00,159500.00,0.40,Outlet
+"Sports Direct",1197831,2021-09-29,South,Texas,Dallas,"Men's ","Athletic Footwear",55.00,675,371250.00,148500.00,0.40,Outlet
+"Sports Direct",1197831,2021-09-30,South,Texas,Dallas,"Women's ","Street Footwear",60.00,725,435000.00,174000.00,0.40,Outlet
+"Sports Direct",1197831,2021-10-01,South,Texas,Dallas,"Women's ","Athletic Footwear",60.00,450,270000.00,135000.00,0.50,Outlet
+"Sports Direct",1197831,2021-10-02,South,Texas,Dallas,"Men's ",Apparel,55.00,450,247500.00,86625.00,0.35,Outlet
+"Sports Direct",1197831,2021-10-03,South,Texas,Dallas,"Women's ",Apparel,50.00,675,337500.00,185625.00,0.55,Outlet
+"Sports Direct",1197831,2021-10-04,South,Texas,Dallas,"Men's ","Street Footwear",40.00,625,250000.00,100000.00,0.40,Outlet
+"Sports Direct",1197831,2021-10-05,South,Texas,Dallas,"Men's ","Athletic Footwear",40.00,625,250000.00,100000.00,0.40,Outlet
+"Sports Direct",1197831,2021-10-06,South,Texas,Dallas,"Women's ","Street Footwear",45.00,575,258750.00,103500.00,0.40,Outlet
+"Sports Direct",1197831,2021-10-07,South,Texas,Dallas,"Women's ","Athletic Footwear",45.00,425,191250.00,95625.00,0.50,Outlet
+"Sports Direct",1197831,2021-10-08,South,Texas,Dallas,"Men's ",Apparel,40.00,400,160000.00,56000.00,0.35,Outlet
+"Sports Direct",1197831,2021-10-09,South,Texas,Dallas,"Women's ",Apparel,50.00,575,287500.00,158125.00,0.55,Outlet
+"Sports Direct",1197831,2021-10-10,South,Texas,Dallas,"Men's ","Street Footwear",40.00,725,290000.00,116000.00,0.40,Outlet
+"Sports Direct",1197831,2021-10-11,South,Texas,Dallas,"Men's ","Athletic Footwear",40.00,725,290000.00,116000.00,0.40,Outlet
+"Sports Direct",1197831,2021-10-12,South,Texas,Dallas,"Women's ","Street Footwear",65.00,650,422500.00,169000.00,0.40,Outlet
+"Sports Direct",1197831,2021-10-13,South,Texas,Dallas,"Women's ","Athletic Footwear",65.00,500,325000.00,162500.00,0.50,Outlet
+"Sports Direct",1197831,2021-10-14,South,Texas,Dallas,"Men's ",Apparel,60.00,475,285000.00,99750.00,0.35,Outlet
+"Sports Direct",1197831,2021-10-15,South,Texas,Dallas,"Women's ",Apparel,70.00,675,472500.00,259875.00,0.55,Outlet
+"Sports Direct",1197831,2021-10-16,South,Texas,Dallas,"Men's ","Street Footwear",60.00,825,495000.00,198000.00,0.40,Outlet
+"Sports Direct",1197831,2021-10-17,South,Texas,Dallas,"Men's ","Athletic Footwear",60.00,825,495000.00,198000.00,0.40,Outlet
+"Sports Direct",1197831,2021-10-18,South,Texas,Dallas,"Women's ","Street Footwear",65.00,725,471250.00,188500.00,0.40,Outlet
+"Sports Direct",1197831,2021-10-19,South,Texas,Dallas,"Women's ","Athletic Footwear",65.00,575,373750.00,186875.00,0.50,Outlet
+"Sports Direct",1197831,2021-10-20,South,Texas,Dallas,"Men's ",Apparel,60.00,525,315000.00,110250.00,0.35,Outlet
+"Sports Direct",1197831,2021-10-21,South,Texas,Dallas,"Women's ",Apparel,70.00,775,542500.00,298375.00,0.55,Outlet
+"Foot Locker",1185732,2021-10-22,South,Texas,Dallas,"Men's ","Street Footwear",45.00,425,191250.00,105187.50,0.55,Outlet
+"Foot Locker",1185732,2021-10-23,South,Texas,Dallas,"Men's ","Athletic Footwear",45.00,225,101250.00,35437.50,0.35,Outlet
+"Foot Locker",1185732,2021-10-24,South,Texas,Dallas,"Women's ","Street Footwear",35.00,225,78750.00,31500.00,0.40,Outlet
+"Foot Locker",1185732,2021-10-25,South,Texas,Dallas,"Women's ","Athletic Footwear",40.00,75,30000.00,12000.00,0.40,Outlet
+"Foot Locker",1185732,2021-10-26,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,55.00,125,68750.00,24062.50,0.35,Outlet
+"Foot Locker",1185732,2021-10-27,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,45.00,225,101250.00,30375.00,0.30,Outlet
+"Foot Locker",1185732,2021-10-28,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",45.00,475,213750.00,117562.50,0.55,Outlet
+"Foot Locker",1185732,2021-10-29,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",45.00,125,56250.00,19687.50,0.35,Outlet
+"Foot Locker",1185732,2021-10-30,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",35.00,175,61250.00,24500.00,0.40,Outlet
+"Foot Locker",1185732,2021-10-31,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",40.00,50,20000.00,8000.00,0.40,Outlet
+"Foot Locker",1185732,2021-11-01,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,55.00,125,68750.00,24062.50,0.35,Outlet
+"Foot Locker",1185732,2021-11-02,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,45.00,225,101250.00,30375.00,0.30,Outlet
+"Foot Locker",1185732,2021-11-03,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",50.00,445,222500.00,122375.00,0.55,Outlet
+"Foot Locker",1185732,2021-11-04,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",50.00,150,75000.00,26250.00,0.35,Outlet
+"Foot Locker",1185732,2021-11-05,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",40.00,175,70000.00,28000.00,0.40,Outlet
+"Foot Locker",1185732,2021-11-06,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",45.00,25,11250.00,4500.00,0.40,Outlet
+"Foot Locker",1185732,2021-11-07,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,60.00,75,45000.00,13500.00,0.30,Outlet
+"Foot Locker",1185732,2021-11-08,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,50.00,175,87500.00,21875.00,0.25,Outlet
+"Foot Locker",1185732,2021-11-09,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",50.00,450,225000.00,112500.00,0.50,Outlet
+"Foot Locker",1185732,2021-11-10,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",50.00,150,75000.00,22500.00,0.30,Outlet
+"Foot Locker",1185732,2021-11-11,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",40.00,150,60000.00,21000.00,0.35,Outlet
+"Foot Locker",1185732,2021-11-12,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",45.00,75,33750.00,11812.50,0.35,Outlet
+"Foot Locker",1185732,2021-11-13,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,60.00,75,45000.00,13500.00,0.30,Outlet
+"Foot Locker",1185732,2021-11-14,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,50.00,200,100000.00,25000.00,0.25,Outlet
+"Foot Locker",1185732,2021-11-15,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",60.00,470,282000.00,141000.00,0.50,Outlet
+"Foot Locker",1185732,2021-11-16,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",60.00,175,105000.00,31500.00,0.30,Outlet
+"Foot Locker",1185732,2021-11-17,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",55.00,150,82500.00,28875.00,0.35,Outlet
+"Foot Locker",1185732,2021-11-18,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",55.00,100,55000.00,19250.00,0.35,Outlet
+"Foot Locker",1185732,2021-11-19,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,65.00,125,81250.00,24375.00,0.30,Outlet
+"Foot Locker",1185732,2021-11-20,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,70.00,250,175000.00,52500.00,0.30,Outlet
+"Foot Locker",1185732,2021-11-21,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",65.00,500,325000.00,178750.00,0.55,Outlet
+"Foot Locker",1185732,2021-11-22,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",60.00,250,150000.00,52500.00,0.35,Outlet
+"Foot Locker",1185732,2021-11-23,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",55.00,175,96250.00,38500.00,0.40,Outlet
+"Foot Locker",1185732,2021-11-24,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",55.00,150,82500.00,33000.00,0.40,Outlet
+"Foot Locker",1185732,2021-11-25,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,65.00,150,97500.00,34125.00,0.35,Outlet
+"Foot Locker",1185732,2021-11-26,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,70.00,300,210000.00,63000.00,0.30,Outlet
+"Foot Locker",1185732,2021-11-27,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",65.00,500,325000.00,178750.00,0.55,Outlet
+"Foot Locker",1185732,2021-11-28,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",60.00,300,180000.00,63000.00,0.35,Outlet
+"Foot Locker",1185732,2021-11-29,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",55.00,225,123750.00,49500.00,0.40,Outlet
+"Foot Locker",1185732,2021-11-30,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",55.00,175,96250.00,38500.00,0.40,Outlet
+"Foot Locker",1185732,2021-12-01,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,65.00,200,130000.00,45500.00,0.35,Outlet
+"Foot Locker",1185732,2021-12-02,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,70.00,375,262500.00,78750.00,0.30,Outlet
+"Foot Locker",1185732,2021-12-03,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",65.00,525,341250.00,187687.50,0.55,Outlet
+"Foot Locker",1185732,2021-12-04,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",60.00,300,180000.00,63000.00,0.35,Outlet
+"Foot Locker",1185732,2021-12-05,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",55.00,225,123750.00,49500.00,0.40,Outlet
+"Foot Locker",1185732,2021-12-06,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",55.00,200,110000.00,44000.00,0.40,Outlet
+"Foot Locker",1185732,2021-12-07,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,65.00,175,113750.00,39812.50,0.35,Outlet
+"Foot Locker",1185732,2021-12-08,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,70.00,350,245000.00,73500.00,0.30,Outlet
+"Foot Locker",1185732,2021-12-09,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",65.00,475,308750.00,154375.00,0.50,Outlet
+"Foot Locker",1185732,2021-12-10,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",50.00,275,137500.00,41250.00,0.30,Outlet
+"Foot Locker",1185732,2021-12-11,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",45.00,200,90000.00,31500.00,0.35,Outlet
+"Foot Locker",1185732,2021-12-12,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",45.00,175,78750.00,27562.50,0.35,Outlet
+"Foot Locker",1185732,2021-12-13,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,55.00,125,68750.00,20625.00,0.30,Outlet
+"Foot Locker",1185732,2021-12-14,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,60.00,225,135000.00,33750.00,0.25,Outlet
+"Foot Locker",1185732,2021-12-15,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",60.00,400,240000.00,120000.00,0.50,Outlet
+"Foot Locker",1185732,2021-12-16,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",50.00,225,112500.00,33750.00,0.30,Outlet
+"Foot Locker",1185732,2021-12-17,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",50.00,125,62500.00,21875.00,0.35,Outlet
+"Foot Locker",1185732,2021-12-18,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",50.00,100,50000.00,17500.00,0.35,Outlet
+"Foot Locker",1185732,2021-12-19,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,60.00,100,60000.00,18000.00,0.30,Outlet
+"Foot Locker",1185732,2021-12-20,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,65.00,225,146250.00,36562.50,0.25,Outlet
+"Foot Locker",1185732,2021-12-21,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",70.00,375,262500.00,144375.00,0.55,Outlet
+"Foot Locker",1185732,2021-12-22,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",60.00,200,120000.00,42000.00,0.35,Outlet
+"Foot Locker",1185732,2021-12-23,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",60.00,195,117000.00,46800.00,0.40,Outlet
+"Foot Locker",1185732,2021-12-24,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",60.00,175,105000.00,42000.00,0.40,Outlet
+"Foot Locker",1185732,2021-12-25,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,70.00,150,105000.00,36750.00,0.35,Outlet
+"Foot Locker",1185732,2021-12-26,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,75.00,250,187500.00,56250.00,0.30,Outlet
+"Foot Locker",1185732,2021-12-27,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",70.00,475,332500.00,182875.00,0.55,Outlet
+"Foot Locker",1185732,2021-12-28,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",60.00,275,165000.00,57750.00,0.35,Outlet
+"Foot Locker",1185732,2021-12-29,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",60.00,225,135000.00,54000.00,0.40,Outlet
+"Foot Locker",1185732,2021-12-30,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",60.00,175,105000.00,42000.00,0.40,Outlet
+"Foot Locker",1185732,2021-12-31,Northeast,Pennsylvania,Philadelphia,"Men's ",Apparel,70.00,175,122500.00,42875.00,0.35,Outlet
+"Foot Locker",1185732,2020-01-01,Northeast,Pennsylvania,Philadelphia,"Women's ",Apparel,75.00,275,206250.00,61875.00,0.30,Outlet
+"West Gear",1128299,2020-01-02,Northeast,Pennsylvania,Philadelphia,"Men's ","Street Footwear",35.00,450,157500.00,63000.00,0.40,Outlet
+"West Gear",1128299,2020-01-03,Northeast,Pennsylvania,Philadelphia,"Men's ","Athletic Footwear",45.00,450,202500.00,50625.00,0.25,Outlet
+"West Gear",1128299,2020-01-04,Northeast,Pennsylvania,Philadelphia,"Women's ","Street Footwear",45.00,450,202500.00,81000.00,0.40,Outlet
+"West Gear",1128299,2020-01-05,Northeast,Pennsylvania,Philadelphia,"Women's ","Athletic Footwear",45.00,300,135000.00,47250.00,0.35,Outlet
+"West Gear",1128299,2020-01-06,West,Nevada,"Las Vegas","Men's ",Apparel,50.00,250,125000.00,68750.00,0.55,Outlet
+"West Gear",1128299,2020-01-07,West,Nevada,"Las Vegas","Women's ",Apparel,45.00,475,213750.00,42750.00,0.20,Outlet
+"West Gear",1128299,2020-01-08,West,Nevada,"Las Vegas","Men's ","Street Footwear",35.00,525,183750.00,73500.00,0.40,Outlet
+"West Gear",1128299,2020-01-09,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",45.00,425,191250.00,47812.50,0.25,Outlet
+"West Gear",1128299,2020-01-10,West,Nevada,"Las Vegas","Women's ","Street Footwear",45.00,425,191250.00,76500.00,0.40,Outlet
+"West Gear",1128299,2020-01-11,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",45.00,275,123750.00,43312.50,0.35,Outlet
+"West Gear",1128299,2020-01-12,West,Nevada,"Las Vegas","Men's ",Apparel,50.00,200,100000.00,55000.00,0.55,Outlet
+"West Gear",1128299,2020-01-13,West,Nevada,"Las Vegas","Women's ",Apparel,45.00,400,180000.00,36000.00,0.20,Outlet
+"West Gear",1128299,2020-01-14,West,Nevada,"Las Vegas","Men's ","Street Footwear",45.00,550,247500.00,99000.00,0.40,Outlet
+"West Gear",1128299,2020-01-15,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",55.00,400,220000.00,55000.00,0.25,Outlet
+"West Gear",1128299,2020-01-16,West,Nevada,"Las Vegas","Women's ","Street Footwear",55.00,400,220000.00,88000.00,0.40,Outlet
+"West Gear",1128299,2020-01-17,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",55.00,300,165000.00,57750.00,0.35,Outlet
+"West Gear",1128299,2020-01-18,West,Nevada,"Las Vegas","Men's ",Apparel,60.00,175,105000.00,57750.00,0.55,Outlet
+"West Gear",1128299,2020-01-19,West,Nevada,"Las Vegas","Women's ",Apparel,55.00,375,206250.00,41250.00,0.20,Outlet
+"West Gear",1128299,2020-01-20,West,Nevada,"Las Vegas","Men's ","Street Footwear",60.00,550,330000.00,132000.00,0.40,Outlet
+"West Gear",1128299,2020-01-21,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",65.00,350,227500.00,56875.00,0.25,Outlet
+"West Gear",1128299,2020-01-22,West,Nevada,"Las Vegas","Women's ","Street Footwear",65.00,400,260000.00,104000.00,0.40,Outlet
+"West Gear",1128299,2020-01-23,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",60.00,300,180000.00,63000.00,0.35,Outlet
+"West Gear",1128299,2020-01-24,West,Nevada,"Las Vegas","Men's ",Apparel,65.00,200,130000.00,71500.00,0.55,Outlet
+"West Gear",1128299,2020-01-25,West,Nevada,"Las Vegas","Women's ",Apparel,80.00,350,280000.00,56000.00,0.20,Outlet
+"West Gear",1128299,2020-01-26,West,Nevada,"Las Vegas","Men's ","Street Footwear",60.00,550,330000.00,148500.00,0.45,Outlet
+"West Gear",1128299,2020-01-27,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",65.00,400,260000.00,78000.00,0.30,Outlet
+"West Gear",1128299,2020-01-28,West,Nevada,"Las Vegas","Women's ","Street Footwear",65.00,400,260000.00,117000.00,0.45,Outlet
+"West Gear",1128299,2020-01-29,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",60.00,300,180000.00,72000.00,0.40,Outlet
+"West Gear",1128299,2020-01-30,West,Nevada,"Las Vegas","Men's ",Apparel,65.00,200,130000.00,78000.00,0.60,Outlet
+"West Gear",1128299,2020-01-31,West,Nevada,"Las Vegas","Women's ",Apparel,80.00,450,360000.00,90000.00,0.25,Outlet
+"West Gear",1128299,2020-02-01,West,Nevada,"Las Vegas","Men's ","Street Footwear",60.00,700,420000.00,189000.00,0.45,Outlet
+"West Gear",1128299,2020-02-02,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",65.00,550,357500.00,107250.00,0.30,Outlet
+"West Gear",1128299,2020-02-03,West,Nevada,"Las Vegas","Women's ","Street Footwear",65.00,550,357500.00,160875.00,0.45,Outlet
+"West Gear",1128299,2020-02-04,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",60.00,425,255000.00,102000.00,0.40,Outlet
+"West Gear",1128299,2020-02-05,West,Nevada,"Las Vegas","Men's ",Apparel,65.00,300,195000.00,117000.00,0.60,Outlet
+"West Gear",1128299,2020-02-06,West,Nevada,"Las Vegas","Women's ",Apparel,80.00,600,480000.00,120000.00,0.25,Outlet
+"West Gear",1128299,2020-02-07,West,Nevada,"Las Vegas","Men's ","Street Footwear",60.00,750,450000.00,180000.00,0.40,Outlet
+"West Gear",1128299,2020-02-08,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",65.00,600,390000.00,97500.00,0.25,Outlet
+"West Gear",1128299,2020-02-09,West,Nevada,"Las Vegas","Women's ","Street Footwear",65.00,550,357500.00,143000.00,0.40,In-store
+"West Gear",1128299,2020-02-10,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",60.00,450,270000.00,94500.00,0.35,In-store
+"West Gear",1128299,2020-02-11,West,Nevada,"Las Vegas","Men's ",Apparel,65.00,500,325000.00,178750.00,0.55,In-store
+"West Gear",1128299,2020-02-12,West,Nevada,"Las Vegas","Women's ",Apparel,80.00,500,400000.00,80000.00,0.20,In-store
+"West Gear",1128299,2020-02-13,West,Nevada,"Las Vegas","Men's ","Street Footwear",65.00,700,455000.00,182000.00,0.40,In-store
+"West Gear",1128299,2020-02-14,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",70.00,650,455000.00,113750.00,0.25,In-store
+"West Gear",1128299,2020-02-15,West,Nevada,"Las Vegas","Women's ","Street Footwear",65.00,525,341250.00,136500.00,0.40,In-store
+"West Gear",1128299,2020-02-16,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",65.00,475,308750.00,108062.50,0.35,In-store
+"West Gear",1128299,2020-02-17,West,Nevada,"Las Vegas","Men's ",Apparel,75.00,475,356250.00,195937.50,0.55,In-store
+"West Gear",1128299,2020-02-18,West,Nevada,"Las Vegas","Women's ",Apparel,80.00,400,320000.00,64000.00,0.20,In-store
+"West Gear",1128299,2020-02-19,West,Nevada,"Las Vegas","Men's ","Street Footwear",60.00,600,360000.00,126000.00,0.35,In-store
+"West Gear",1128299,2020-02-20,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",65.00,600,390000.00,78000.00,0.20,In-store
+"West Gear",1128299,2020-02-21,West,Nevada,"Las Vegas","Women's ","Street Footwear",60.00,450,270000.00,94500.00,0.35,In-store
+"West Gear",1128299,2020-02-22,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",60.00,400,240000.00,72000.00,0.30,In-store
+"West Gear",1128299,2020-02-23,West,Nevada,"Las Vegas","Men's ",Apparel,70.00,400,280000.00,140000.00,0.50,In-store
+"West Gear",1128299,2020-02-24,West,Nevada,"Las Vegas","Women's ",Apparel,75.00,450,337500.00,50625.00,0.15,In-store
+"West Gear",1128299,2020-02-25,West,Nevada,"Las Vegas","Men's ","Street Footwear",60.00,550,330000.00,115500.00,0.35,In-store
+"West Gear",1128299,2020-02-26,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",65.00,550,357500.00,71500.00,0.20,In-store
+"West Gear",1128299,2020-02-27,West,Nevada,"Las Vegas","Women's ","Street Footwear",60.00,375,225000.00,78750.00,0.35,In-store
+"West Gear",1128299,2020-02-28,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",60.00,350,210000.00,63000.00,0.30,In-store
+"West Gear",1128299,2020-03-01,West,Nevada,"Las Vegas","Men's ",Apparel,70.00,325,227500.00,113750.00,0.50,In-store
+"West Gear",1128299,2020-03-02,West,Nevada,"Las Vegas","Women's ",Apparel,75.00,375,281250.00,42187.50,0.15,In-store
+"West Gear",1128299,2020-03-03,West,Nevada,"Las Vegas","Men's ","Street Footwear",60.00,575,345000.00,120750.00,0.35,In-store
+"West Gear",1128299,2020-03-04,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",65.00,575,373750.00,74750.00,0.20,In-store
+"West Gear",1128299,2020-03-05,West,Nevada,"Las Vegas","Women's ","Street Footwear",60.00,425,255000.00,89250.00,0.35,In-store
+"West Gear",1128299,2020-03-06,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",60.00,400,240000.00,72000.00,0.30,In-store
+"West Gear",1128299,2020-03-07,West,Nevada,"Las Vegas","Men's ",Apparel,70.00,350,245000.00,122500.00,0.50,In-store
+"West Gear",1128299,2020-03-08,West,Nevada,"Las Vegas","Women's ",Apparel,75.00,475,356250.00,53437.50,0.15,In-store
+"West Gear",1128299,2020-03-09,West,Nevada,"Las Vegas","Men's ","Street Footwear",60.00,675,405000.00,141750.00,0.35,In-store
+"West Gear",1128299,2020-03-10,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",65.00,675,438750.00,87750.00,0.20,In-store
+"West Gear",1128299,2020-03-11,West,Nevada,"Las Vegas","Women's ","Street Footwear",60.00,475,285000.00,99750.00,0.35,In-store
+"West Gear",1128299,2020-03-12,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",60.00,475,285000.00,85500.00,0.30,In-store
+"West Gear",1128299,2020-03-13,West,Nevada,"Las Vegas","Men's ",Apparel,70.00,400,280000.00,140000.00,0.50,In-store
+"West Gear",1128299,2020-03-14,West,Nevada,"Las Vegas","Women's ",Apparel,75.00,500,375000.00,56250.00,0.15,In-store
+"West Gear",1128299,2020-03-15,West,Nevada,"Las Vegas","Men's ","Street Footwear",30.00,425,127500.00,44625.00,0.35,In-store
+"West Gear",1128299,2020-03-16,West,Nevada,"Las Vegas","Men's ","Athletic Footwear",40.00,425,170000.00,34000.00,0.20,In-store
+"West Gear",1128299,2020-03-17,West,Nevada,"Las Vegas","Women's ","Street Footwear",40.00,425,170000.00,59500.00,0.35,In-store
+"West Gear",1128299,2020-03-18,West,Nevada,"Las Vegas","Women's ","Athletic Footwear",40.00,275,110000.00,33000.00,0.30,In-store
+"West Gear",1128299,2020-03-19,West,Colorado,Denver,"Men's ",Apparel,45.00,225,101250.00,50625.00,0.50,In-store
+"West Gear",1128299,2020-03-20,West,Colorado,Denver,"Women's ",Apparel,40.00,475,190000.00,28500.00,0.15,In-store
+"West Gear",1128299,2020-03-21,West,Colorado,Denver,"Men's ","Street Footwear",30.00,525,157500.00,55125.00,0.35,In-store
+"West Gear",1128299,2020-03-22,West,Colorado,Denver,"Men's ","Athletic Footwear",40.00,425,170000.00,34000.00,0.20,In-store
+"West Gear",1128299,2020-03-23,West,Colorado,Denver,"Women's ","Street Footwear",40.00,425,170000.00,59500.00,0.35,In-store
+"West Gear",1128299,2020-03-24,West,Colorado,Denver,"Women's ","Athletic Footwear",40.00,275,110000.00,33000.00,0.30,In-store
+"West Gear",1128299,2020-03-25,West,Colorado,Denver,"Men's ",Apparel,45.00,200,90000.00,45000.00,0.50,In-store
+"West Gear",1128299,2020-03-26,West,Colorado,Denver,"Women's ",Apparel,40.00,400,160000.00,24000.00,0.15,In-store
+"West Gear",1128299,2020-03-27,West,Colorado,Denver,"Men's ","Street Footwear",40.00,550,220000.00,77000.00,0.35,In-store
+"West Gear",1128299,2020-03-28,West,Colorado,Denver,"Men's ","Athletic Footwear",50.00,400,200000.00,40000.00,0.20,In-store
+"West Gear",1128299,2020-03-29,West,Colorado,Denver,"Women's ","Street Footwear",55.00,400,220000.00,77000.00,0.35,In-store
+"West Gear",1128299,2020-03-30,West,Colorado,Denver,"Women's ","Athletic Footwear",55.00,300,165000.00,49500.00,0.30,In-store
+"West Gear",1128299,2020-03-31,West,Colorado,Denver,"Men's ",Apparel,60.00,150,90000.00,45000.00,0.50,In-store
+"West Gear",1128299,2020-04-01,West,Colorado,Denver,"Women's ",Apparel,55.00,350,192500.00,28875.00,0.15,In-store
+"West Gear",1128299,2020-04-02,West,Colorado,Denver,"Men's ","Street Footwear",60.00,525,315000.00,110250.00,0.35,In-store
+"West Gear",1128299,2020-04-03,West,Colorado,Denver,"Men's ","Athletic Footwear",65.00,325,211250.00,42250.00,0.20,In-store
+"West Gear",1128299,2020-04-04,West,Colorado,Denver,"Women's ","Street Footwear",65.00,375,243750.00,85312.50,0.35,In-store
+"West Gear",1128299,2020-04-05,West,Colorado,Denver,"Women's ","Athletic Footwear",60.00,275,165000.00,49500.00,0.30,In-store
+"West Gear",1128299,2020-04-06,West,Colorado,Denver,"Men's ",Apparel,65.00,175,113750.00,56875.00,0.50,In-store
+"West Gear",1128299,2020-04-07,West,Colorado,Denver,"Women's ",Apparel,80.00,325,260000.00,39000.00,0.15,In-store
+"West Gear",1128299,2020-04-08,West,Colorado,Denver,"Men's ","Street Footwear",60.00,525,315000.00,157500.00,0.50,In-store
+"West Gear",1128299,2020-04-09,West,Colorado,Denver,"Men's ","Athletic Footwear",65.00,375,243750.00,85312.50,0.35,In-store
+"West Gear",1128299,2020-04-10,West,Colorado,Denver,"Women's ","Street Footwear",65.00,375,243750.00,121875.00,0.50,In-store
+"West Gear",1128299,2020-04-11,West,Colorado,Denver,"Women's ","Athletic Footwear",60.00,275,165000.00,74250.00,0.45,In-store
+"West Gear",1128299,2020-04-12,West,Colorado,Denver,"Men's ",Apparel,65.00,175,113750.00,73937.50,0.65,In-store
+"West Gear",1128299,2020-04-13,West,Colorado,Denver,"Women's ",Apparel,80.00,475,380000.00,114000.00,0.30,In-store
+"West Gear",1128299,2020-04-14,West,Colorado,Denver,"Men's ","Street Footwear",60.00,725,435000.00,217500.00,0.50,In-store
+"West Gear",1128299,2020-04-15,West,Colorado,Denver,"Men's ","Athletic Footwear",65.00,575,373750.00,130812.50,0.35,In-store
+"West Gear",1128299,2020-04-16,West,Colorado,Denver,"Women's ","Street Footwear",65.00,575,373750.00,186875.00,0.50,In-store
+"West Gear",1128299,2020-04-17,West,Colorado,Denver,"Women's ","Athletic Footwear",65.00,450,292500.00,131625.00,0.45,In-store
+"West Gear",1128299,2020-04-18,West,Colorado,Denver,"Men's ",Apparel,70.00,325,227500.00,147875.00,0.65,In-store
+"West Gear",1128299,2020-04-19,West,Colorado,Denver,"Women's ",Apparel,85.00,625,531250.00,159375.00,0.30,In-store
+"West Gear",1128299,2020-04-20,West,Colorado,Denver,"Men's ","Street Footwear",65.00,775,503750.00,226687.50,0.45,In-store
+"West Gear",1128299,2020-04-21,West,Colorado,Denver,"Men's ","Athletic Footwear",70.00,625,437500.00,131250.00,0.30,In-store
+"West Gear",1128299,2020-04-22,West,Colorado,Denver,"Women's ","Street Footwear",70.00,575,402500.00,181125.00,0.45,In-store
+"West Gear",1128299,2020-04-23,West,Colorado,Denver,"Women's ","Athletic Footwear",65.00,475,308750.00,123500.00,0.40,In-store
+"West Gear",1128299,2020-04-24,West,Colorado,Denver,"Men's ",Apparel,70.00,525,367500.00,220500.00,0.60,In-store
+"West Gear",1128299,2020-04-25,West,Colorado,Denver,"Women's ",Apparel,85.00,525,446250.00,111562.50,0.25,In-store
+"West Gear",1128299,2020-04-26,West,Colorado,Denver,"Men's ","Street Footwear",70.00,725,507500.00,228375.00,0.45,In-store
+"West Gear",1128299,2020-04-27,West,Colorado,Denver,"Men's ","Athletic Footwear",75.00,675,506250.00,151875.00,0.30,In-store
+"West Gear",1128299,2020-04-28,West,Colorado,Denver,"Women's ","Street Footwear",70.00,550,385000.00,173250.00,0.45,In-store
+"West Gear",1128299,2020-04-29,West,Colorado,Denver,"Women's ","Athletic Footwear",70.00,500,350000.00,140000.00,0.40,In-store
+"West Gear",1128299,2020-04-30,West,Colorado,Denver,"Men's ",Apparel,75.00,500,375000.00,225000.00,0.60,In-store
+"West Gear",1128299,2020-05-01,West,Colorado,Denver,"Women's ",Apparel,80.00,400,320000.00,80000.00,0.25,In-store
+"West Gear",1128299,2020-05-02,West,Colorado,Denver,"Men's ","Street Footwear",65.00,600,390000.00,156000.00,0.40,In-store
+"West Gear",1128299,2020-05-03,West,Colorado,Denver,"Men's ","Athletic Footwear",70.00,600,420000.00,105000.00,0.25,In-store
+"West Gear",1128299,2020-05-04,West,Colorado,Denver,"Women's ","Street Footwear",65.00,450,292500.00,117000.00,0.40,In-store
+"West Gear",1128299,2020-05-05,West,Colorado,Denver,"Women's ","Athletic Footwear",65.00,400,260000.00,91000.00,0.35,In-store
+"West Gear",1128299,2020-05-06,West,Colorado,Denver,"Men's ",Apparel,75.00,400,300000.00,165000.00,0.55,In-store
+"West Gear",1128299,2020-05-07,West,Colorado,Denver,"Women's ",Apparel,70.00,425,297500.00,59500.00,0.20,In-store
+"West Gear",1128299,2020-05-08,West,Colorado,Denver,"Men's ","Street Footwear",55.00,525,288750.00,115500.00,0.40,In-store
+"West Gear",1128299,2020-05-09,West,Colorado,Denver,"Men's ","Athletic Footwear",60.00,525,315000.00,78750.00,0.25,In-store
+"West Gear",1128299,2020-05-10,West,Colorado,Denver,"Women's ","Street Footwear",55.00,350,192500.00,77000.00,0.40,In-store
+"West Gear",1128299,2020-05-11,West,Colorado,Denver,"Women's ","Athletic Footwear",55.00,325,178750.00,62562.50,0.35,In-store
+"West Gear",1128299,2020-05-12,West,Colorado,Denver,"Men's ",Apparel,65.00,300,195000.00,107250.00,0.55,In-store
+"West Gear",1128299,2020-05-13,West,Colorado,Denver,"Women's ",Apparel,70.00,350,245000.00,49000.00,0.20,In-store
+"West Gear",1128299,2020-05-14,West,Colorado,Denver,"Men's ","Street Footwear",55.00,575,316250.00,126500.00,0.40,In-store
+"West Gear",1128299,2020-05-15,West,Colorado,Denver,"Men's ","Athletic Footwear",60.00,575,345000.00,86250.00,0.25,In-store
+"West Gear",1128299,2020-05-16,West,Colorado,Denver,"Women's ","Street Footwear",55.00,425,233750.00,93500.00,0.40,In-store
+"West Gear",1128299,2020-05-17,West,Colorado,Denver,"Women's ","Athletic Footwear",65.00,400,260000.00,91000.00,0.35,In-store
+"West Gear",1128299,2020-05-18,West,Colorado,Denver,"Men's ",Apparel,75.00,375,281250.00,154687.50,0.55,In-store
+"West Gear",1128299,2020-05-19,West,Colorado,Denver,"Women's ",Apparel,80.00,500,400000.00,80000.00,0.20,In-store
+"West Gear",1128299,2020-05-20,West,Colorado,Denver,"Men's ","Street Footwear",65.00,700,455000.00,182000.00,0.40,In-store
+"West Gear",1128299,2020-05-21,West,Colorado,Denver,"Men's ","Athletic Footwear",70.00,700,490000.00,122500.00,0.25,In-store
+"West Gear",1128299,2020-05-22,West,Colorado,Denver,"Women's ","Street Footwear",65.00,500,325000.00,130000.00,0.40,In-store
+"West Gear",1128299,2020-05-23,West,Colorado,Denver,"Women's ","Athletic Footwear",65.00,500,325000.00,113750.00,0.35,In-store
+"West Gear",1128299,2020-05-24,West,Colorado,Denver,"Men's ",Apparel,75.00,425,318750.00,175312.50,0.55,In-store
+"West Gear",1128299,2020-05-25,West,Colorado,Denver,"Women's ",Apparel,80.00,525,420000.00,84000.00,0.20,In-store
+"West Gear",1128299,2020-05-26,West,Colorado,Denver,"Men's ","Street Footwear",40.00,450,180000.00,54000.00,0.30,In-store
+"West Gear",1128299,2020-05-27,West,Colorado,Denver,"Men's ","Athletic Footwear",50.00,450,225000.00,56250.00,0.25,In-store
+"West Gear",1128299,2020-05-28,West,Colorado,Denver,"Women's ","Street Footwear",50.00,450,225000.00,56250.00,0.25,In-store
+"West Gear",1128299,2020-05-29,West,Colorado,Denver,"Women's ","Athletic Footwear",50.00,300,150000.00,45000.00,0.30,In-store
+"West Gear",1128299,2020-05-30,West,Washington,Seattle,"Men's ",Apparel,55.00,250,137500.00,34375.00,0.25,In-store
+"West Gear",1128299,2020-05-31,West,Washington,Seattle,"Women's ",Apparel,50.00,500,250000.00,50000.00,0.20,In-store
+"West Gear",1128299,2020-06-01,West,Washington,Seattle,"Men's ","Street Footwear",40.00,550,220000.00,66000.00,0.30,In-store
+"West Gear",1128299,2020-06-02,West,Washington,Seattle,"Men's ","Athletic Footwear",50.00,450,225000.00,56250.00,0.25,In-store
+"West Gear",1128299,2020-06-03,West,Washington,Seattle,"Women's ","Street Footwear",50.00,450,225000.00,56250.00,0.25,In-store
+"West Gear",1128299,2020-06-04,West,Washington,Seattle,"Women's ","Athletic Footwear",50.00,300,150000.00,45000.00,0.30,In-store
+"West Gear",1128299,2020-06-05,West,Washington,Seattle,"Men's ",Apparel,55.00,225,123750.00,30937.50,0.25,In-store
+"West Gear",1128299,2020-06-06,West,Washington,Seattle,"Women's ",Apparel,50.00,425,212500.00,42500.00,0.20,In-store
+"West Gear",1128299,2020-06-07,West,Washington,Seattle,"Men's ","Street Footwear",50.00,575,287500.00,86250.00,0.30,In-store
+"West Gear",1128299,2020-06-08,West,Washington,Seattle,"Men's ","Athletic Footwear",60.00,425,255000.00,63750.00,0.25,In-store
+"West Gear",1128299,2020-06-09,West,Washington,Seattle,"Women's ","Street Footwear",65.00,425,276250.00,69062.50,0.25,In-store
+"West Gear",1128299,2020-06-10,West,Washington,Seattle,"Women's ","Athletic Footwear",65.00,325,211250.00,63375.00,0.30,In-store
+"West Gear",1128299,2020-06-11,West,Washington,Seattle,"Men's ",Apparel,70.00,175,122500.00,30625.00,0.25,In-store
+"West Gear",1128299,2020-06-12,West,Washington,Seattle,"Women's ",Apparel,65.00,375,243750.00,48750.00,0.20,In-store
+"West Gear",1128299,2020-06-13,West,Washington,Seattle,"Men's ","Street Footwear",70.00,550,385000.00,115500.00,0.30,In-store
+"West Gear",1128299,2020-06-14,West,Washington,Seattle,"Men's ","Athletic Footwear",75.00,350,262500.00,65625.00,0.25,In-store
+"West Gear",1128299,2020-06-15,West,Washington,Seattle,"Women's ","Street Footwear",75.00,400,300000.00,75000.00,0.25,In-store
+"West Gear",1128299,2020-06-16,West,Washington,Seattle,"Women's ","Athletic Footwear",60.00,300,180000.00,54000.00,0.30,In-store
+"West Gear",1128299,2020-06-17,West,Washington,Seattle,"Men's ",Apparel,65.00,200,130000.00,32500.00,0.25,In-store
+"West Gear",1128299,2020-06-18,West,Washington,Seattle,"Women's ",Apparel,80.00,350,280000.00,56000.00,0.20,In-store
+"West Gear",1128299,2020-06-19,West,Washington,Seattle,"Men's ","Street Footwear",60.00,550,330000.00,99000.00,0.30,In-store
+"West Gear",1128299,2020-06-20,West,Washington,Seattle,"Men's ","Athletic Footwear",65.00,400,260000.00,65000.00,0.25,In-store
+"West Gear",1128299,2020-06-21,West,Washington,Seattle,"Women's ","Street Footwear",65.00,400,260000.00,65000.00,0.25,In-store
+"West Gear",1128299,2020-06-22,West,Washington,Seattle,"Women's ","Athletic Footwear",60.00,300,180000.00,54000.00,0.30,In-store
+"West Gear",1128299,2020-06-23,West,Washington,Seattle,"Men's ",Apparel,65.00,200,130000.00,32500.00,0.25,In-store
+"West Gear",1128299,2020-06-24,West,Washington,Seattle,"Women's ",Apparel,80.00,500,400000.00,80000.00,0.20,In-store
+"West Gear",1128299,2020-06-25,West,Washington,Seattle,"Men's ","Street Footwear",75.00,750,562500.00,168750.00,0.30,In-store
+"West Gear",1128299,2020-06-26,West,Washington,Seattle,"Men's ","Athletic Footwear",80.00,625,500000.00,125000.00,0.25,In-store
+"West Gear",1128299,2020-06-27,West,Washington,Seattle,"Women's ","Street Footwear",80.00,625,500000.00,125000.00,0.25,In-store
+"West Gear",1128299,2020-06-28,West,Washington,Seattle,"Women's ","Athletic Footwear",80.00,500,400000.00,120000.00,0.30,In-store
+"West Gear",1128299,2020-06-29,West,Washington,Seattle,"Men's ",Apparel,85.00,375,318750.00,79687.50,0.25,In-store
+"West Gear",1128299,2020-06-30,West,Washington,Seattle,"Women's ",Apparel,100.00,675,675000.00,135000.00,0.20,In-store
+"West Gear",1128299,2020-07-01,West,Washington,Seattle,"Men's ","Street Footwear",80.00,825,660000.00,198000.00,0.30,In-store
+"West Gear",1128299,2020-07-02,West,Washington,Seattle,"Men's ","Athletic Footwear",85.00,675,573750.00,143437.50,0.25,In-store
+"West Gear",1128299,2020-07-03,West,Washington,Seattle,"Women's ","Street Footwear",85.00,625,531250.00,132812.50,0.25,In-store
+"West Gear",1128299,2020-07-04,West,Washington,Seattle,"Women's ","Athletic Footwear",80.00,525,420000.00,126000.00,0.30,In-store
+"West Gear",1128299,2020-07-05,West,Washington,Seattle,"Men's ",Apparel,85.00,575,488750.00,122187.50,0.25,In-store
+"West Gear",1128299,2020-07-06,West,Washington,Seattle,"Women's ",Apparel,100.00,575,575000.00,115000.00,0.20,In-store
+"West Gear",1128299,2020-07-07,West,Washington,Seattle,"Men's ","Street Footwear",85.00,775,658750.00,197625.00,0.30,In-store
+"West Gear",1128299,2020-07-08,West,Washington,Seattle,"Men's ","Athletic Footwear",80.00,750,600000.00,150000.00,0.25,In-store
+"West Gear",1128299,2020-07-09,West,Washington,Seattle,"Women's ","Street Footwear",75.00,625,468750.00,117187.50,0.25,In-store
+"West Gear",1128299,2020-07-10,West,Washington,Seattle,"Women's ","Athletic Footwear",75.00,575,431250.00,129375.00,0.30,In-store
+"West Gear",1128299,2020-07-11,West,Washington,Seattle,"Men's ",Apparel,75.00,575,431250.00,107812.50,0.25,In-store
+"West Gear",1128299,2020-07-12,West,Washington,Seattle,"Women's ",Apparel,80.00,400,320000.00,64000.00,0.20,In-store
+"West Gear",1128299,2020-07-13,West,Washington,Seattle,"Men's ","Street Footwear",70.00,600,420000.00,126000.00,0.30,In-store
+"West Gear",1128299,2020-07-14,West,Washington,Seattle,"Men's ","Athletic Footwear",75.00,600,450000.00,112500.00,0.25,In-store
+"West Gear",1128299,2020-07-15,West,Washington,Seattle,"Women's ","Street Footwear",70.00,450,315000.00,78750.00,0.25,In-store
+"West Gear",1128299,2020-07-16,West,Washington,Seattle,"Women's ","Athletic Footwear",70.00,400,280000.00,84000.00,0.30,In-store
+"West Gear",1128299,2020-07-17,West,Washington,Seattle,"Men's ",Apparel,80.00,425,340000.00,85000.00,0.25,In-store
+"West Gear",1128299,2020-07-18,West,Washington,Seattle,"Women's ",Apparel,65.00,450,292500.00,58500.00,0.20,In-store
+"West Gear",1128299,2020-07-19,West,Washington,Seattle,"Men's ","Street Footwear",60.00,550,330000.00,99000.00,0.30,In-store
+"West Gear",1128299,2020-07-20,West,Washington,Seattle,"Men's ","Athletic Footwear",65.00,550,357500.00,89375.00,0.25,In-store
+"West Gear",1128299,2020-07-21,West,Washington,Seattle,"Women's ","Street Footwear",60.00,375,225000.00,56250.00,0.25,In-store
+"West Gear",1128299,2020-07-22,West,Washington,Seattle,"Women's ","Athletic Footwear",60.00,350,210000.00,63000.00,0.30,In-store
+"West Gear",1128299,2020-07-23,West,Washington,Seattle,"Men's ",Apparel,70.00,325,227500.00,56875.00,0.25,In-store
+"West Gear",1128299,2020-07-24,West,Washington,Seattle,"Women's ",Apparel,75.00,375,281250.00,56250.00,0.20,In-store
+"West Gear",1128299,2020-07-25,West,Washington,Seattle,"Men's ","Street Footwear",60.00,600,360000.00,108000.00,0.30,In-store
+"West Gear",1128299,2020-07-26,West,Washington,Seattle,"Men's ","Athletic Footwear",65.00,625,406250.00,101562.50,0.25,In-store
+"West Gear",1128299,2020-07-27,West,Washington,Seattle,"Women's ","Street Footwear",60.00,475,285000.00,71250.00,0.25,In-store
+"West Gear",1128299,2020-07-28,West,Washington,Seattle,"Women's ","Athletic Footwear",70.00,450,315000.00,94500.00,0.30,In-store
+"West Gear",1128299,2020-07-29,West,Washington,Seattle,"Men's ",Apparel,90.00,425,382500.00,95625.00,0.25,In-store
+"West Gear",1128299,2020-07-30,West,Washington,Seattle,"Women's ",Apparel,95.00,550,522500.00,104500.00,0.20,In-store
+"West Gear",1128299,2020-07-31,West,Washington,Seattle,"Men's ","Street Footwear",80.00,750,600000.00,180000.00,0.30,In-store
+"West Gear",1128299,2020-08-01,West,Washington,Seattle,"Men's ","Athletic Footwear",85.00,750,637500.00,159375.00,0.25,In-store
+"West Gear",1128299,2020-08-02,West,Washington,Seattle,"Women's ","Street Footwear",80.00,550,440000.00,110000.00,0.25,In-store
+"West Gear",1128299,2020-08-03,West,Washington,Seattle,"Women's ","Athletic Footwear",80.00,550,440000.00,132000.00,0.30,In-store
+"West Gear",1128299,2020-08-04,West,Washington,Seattle,"Men's ",Apparel,90.00,475,427500.00,106875.00,0.25,In-store
+"West Gear",1128299,2020-08-05,West,Washington,Seattle,"Women's ",Apparel,95.00,575,546250.00,109250.00,0.20,In-store
+"Foot Locker",1185732,2020-08-06,West,Washington,Seattle,"Men's ","Street Footwear",45.00,1050,472500.00,212625.00,0.45,In-store
+"Foot Locker",1185732,2020-08-07,West,Washington,Seattle,"Men's ","Athletic Footwear",45.00,850,382500.00,133875.00,0.35,In-store
+"Foot Locker",1185732,2020-08-08,West,Washington,Seattle,"Women's ","Street Footwear",35.00,850,297500.00,74375.00,0.25,In-store
+"Foot Locker",1185732,2020-08-09,West,Washington,Seattle,"Women's ","Athletic Footwear",40.00,700,280000.00,84000.00,0.30,In-store
+"Foot Locker",1185732,2020-08-10,Southeast,Florida,Miami,"Men's ",Apparel,55.00,750,412500.00,144375.00,0.35,In-store
+"Foot Locker",1185732,2020-08-11,Southeast,Florida,Miami,"Women's ",Apparel,45.00,850,382500.00,191250.00,0.50,In-store
+"Foot Locker",1185732,2020-08-12,Southeast,Florida,Miami,"Men's ","Street Footwear",45.00,1100,495000.00,222750.00,0.45,In-store
+"Foot Locker",1185732,2020-08-13,Southeast,Florida,Miami,"Men's ","Athletic Footwear",45.00,750,337500.00,118125.00,0.35,In-store
+"Foot Locker",1185732,2020-08-14,Southeast,Florida,Miami,"Women's ","Street Footwear",35.00,800,280000.00,70000.00,0.25,In-store
+"West Gear",1185732,2020-08-15,Southeast,Florida,Miami,"Women's ","Athletic Footwear",40.00,675,270000.00,81000.00,0.30,In-store
+"Foot Locker",1185732,2020-08-16,Southeast,Florida,Miami,"Men's ",Apparel,55.00,750,412500.00,144375.00,0.35,In-store
+"Foot Locker",1185732,2020-08-17,Southeast,Florida,Miami,"Women's ",Apparel,45.00,850,382500.00,191250.00,0.50,In-store
+"Foot Locker",1185732,2020-08-18,Southeast,Florida,Miami,"Men's ","Street Footwear",45.00,1070,481500.00,216675.00,0.45,In-store
+"Foot Locker",1185732,2020-08-19,Southeast,Florida,Miami,"Men's ","Athletic Footwear",45.00,750,337500.00,118125.00,0.35,In-store
+"Foot Locker",1185732,2020-08-20,Southeast,Florida,Miami,"Women's ","Street Footwear",35.00,775,271250.00,67812.50,0.25,In-store
+"Foot Locker",1185732,2020-08-21,Southeast,Florida,Miami,"Women's ","Athletic Footwear",40.00,625,250000.00,75000.00,0.30,In-store
+"Foot Locker",1185732,2020-08-22,Southeast,Florida,Miami,"Men's ",Apparel,55.00,675,371250.00,129937.50,0.35,In-store
+"Foot Locker",1185732,2020-08-23,Southeast,Florida,Miami,"Women's ",Apparel,45.00,775,348750.00,174375.00,0.50,In-store
+"Foot Locker",1185732,2020-04-24,Southeast,Florida,Miami,"Men's ","Street Footwear",45.00,1025,461250.00,207562.50,0.45,In-store
+"Foot Locker",1185732,2020-04-24,Southeast,Florida,Miami,"Men's ","Athletic Footwear",45.00,725,326250.00,114187.50,0.35,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Women's ","Street Footwear",35.00,725,253750.00,63437.50,0.25,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Women's ","Athletic Footwear",40.00,650,260000.00,78000.00,0.30,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Men's ",Apparel,55.00,675,371250.00,129937.50,0.35,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Women's ",Apparel,45.00,800,360000.00,180000.00,0.50,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Men's ","Street Footwear",55.00,1070,588500.00,264825.00,0.45,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Men's ","Athletic Footwear",55.00,775,426250.00,149187.50,0.35,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Women's ","Street Footwear",50.00,750,375000.00,93750.00,0.25,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Women's ","Athletic Footwear",50.00,700,350000.00,105000.00,0.30,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Men's ",Apparel,60.00,725,435000.00,152250.00,0.35,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Women's ",Apparel,65.00,825,536250.00,268125.00,0.50,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Men's ","Street Footwear",60.00,1075,645000.00,290250.00,0.45,In-store
+"West Gear",1185732,2020-04-24,Southeast,Florida,Miami,"Men's ","Athletic Footwear",55.00,825,453750.00,158812.50,0.35,In-store
+"West Gear",1185732,2020-09-07,Southeast,Florida,Miami,"Women's ","Street Footwear",50.00,800,400000.00,100000.00,0.25,In-store
+"West Gear",1185732,2020-09-08,Southeast,Florida,Miami,"Women's ","Athletic Footwear",50.00,775,387500.00,116250.00,0.30,In-store
+"West Gear",1185732,2020-09-09,Southeast,Florida,Miami,"Men's ",Apparel,65.00,775,503750.00,176312.50,0.35,In-store
+"West Gear",1185732,2020-09-10,Southeast,Florida,Miami,"Women's ",Apparel,70.00,925,647500.00,323750.00,0.50,In-store
+"West Gear",1185732,2020-09-11,Southeast,Florida,Miami,"Men's ","Street Footwear",65.00,1150,747500.00,336375.00,0.45,In-store
+"West Gear",1185732,2020-09-12,Southeast,Florida,Miami,"Men's ","Athletic Footwear",60.00,900,540000.00,189000.00,0.35,In-store
+"West Gear",1185732,2020-09-13,Southeast,Florida,Miami,"Women's ","Street Footwear",55.00,825,453750.00,113437.50,0.25,In-store
+"West Gear",1185732,2020-09-14,Southeast,Florida,Miami,"Women's ","Athletic Footwear",55.00,775,426250.00,127875.00,0.30,In-store
+"West Gear",1185732,2020-09-15,Southeast,Florida,Miami,"Men's ",Apparel,65.00,800,520000.00,182000.00,0.35,In-store
+"West Gear",1185732,2020-09-16,Southeast,Florida,Miami,"Women's ",Apparel,70.00,975,682500.00,341250.00,0.50,In-store
+"West Gear",1185732,2020-09-17,Southeast,Florida,Miami,"Men's ","Street Footwear",65.00,1125,731250.00,329062.50,0.45,In-store
+"West Gear",1185732,2020-09-18,Southeast,Florida,Miami,"Men's ","Athletic Footwear",60.00,900,540000.00,189000.00,0.35,In-store
+"West Gear",1185732,2020-09-19,Southeast,Florida,Miami,"Women's ","Street Footwear",55.00,825,453750.00,113437.50,0.25,In-store
+"Foot Locker",1185732,2020-09-20,Southeast,Florida,Miami,"Women's ","Athletic Footwear",45.00,775,348750.00,104625.00,0.30,In-store
+"Foot Locker",1185732,2020-09-21,Southeast,Florida,Miami,"Men's ",Apparel,55.00,750,412500.00,144375.00,0.35,In-store
+"Foot Locker",1185732,2020-09-22,Southeast,Florida,Miami,"Women's ",Apparel,60.00,925,555000.00,277500.00,0.50,In-store
+"Foot Locker",1185732,2020-09-23,Southeast,Florida,Miami,"Men's ","Street Footwear",55.00,1050,577500.00,259875.00,0.45,In-store
+"Foot Locker",1185732,2020-09-24,Southeast,Florida,Miami,"Men's ","Athletic Footwear",50.00,850,425000.00,148750.00,0.35,In-store
+"Sports Direct",1185732,2020-09-25,Southeast,Florida,Miami,"Women's ","Street Footwear",45.00,750,337500.00,84375.00,0.25,In-store
+"Sports Direct",1185732,2020-09-26,Southeast,Florida,Miami,"Women's ","Athletic Footwear",45.00,725,326250.00,97875.00,0.30,In-store
+"Sports Direct",1185732,2020-09-27,Southeast,Florida,Miami,"Men's ",Apparel,55.00,725,398750.00,139562.50,0.35,In-store
+"Sports Direct",1185732,2020-09-28,Southeast,Florida,Miami,"Women's ",Apparel,60.00,825,495000.00,247500.00,0.50,In-store
+"Sports Direct",1185732,2020-09-29,Southeast,Florida,Miami,"Men's ","Street Footwear",60.00,1000,600000.00,270000.00,0.45,In-store
+"Sports Direct",1185732,2020-09-30,Southeast,Florida,Miami,"Men's ","Athletic Footwear",50.00,825,412500.00,144375.00,0.35,In-store
+"Sports Direct",1185732,2020-10-01,Southeast,Florida,Miami,"Women's ","Street Footwear",50.00,725,362500.00,90625.00,0.25,In-store
+"Sports Direct",1185732,2020-10-02,Southeast,Florida,Miami,"Women's ","Athletic Footwear",50.00,700,350000.00,105000.00,0.30,In-store
+"Sports Direct",1185732,2020-10-03,Southeast,Florida,Miami,"Men's ",Apparel,60.00,700,420000.00,147000.00,0.35,In-store
+"Sports Direct",1185732,2020-10-04,Southeast,Florida,Miami,"Women's ",Apparel,65.00,825,536250.00,268125.00,0.50,In-store
+"Sports Direct",1185732,2020-10-05,Southeast,Florida,Miami,"Men's ","Street Footwear",60.00,975,585000.00,263250.00,0.45,In-store
+"Sports Direct",1185732,2020-10-06,Southeast,Florida,Miami,"Men's ","Athletic Footwear",50.00,800,400000.00,140000.00,0.35,In-store
+"Sports Direct",1185732,2020-10-07,Southeast,Florida,Miami,"Women's ","Street Footwear",50.00,745,372500.00,93125.00,0.25,In-store
+"Sports Direct",1185732,2020-10-08,Southeast,Florida,Miami,"Women's ","Athletic Footwear",50.00,775,387500.00,116250.00,0.30,In-store
+"Sports Direct",1185732,2020-10-09,Southeast,Florida,Miami,"Men's ",Apparel,65.00,750,487500.00,170625.00,0.35,In-store
+"Sports Direct",1185732,2020-10-10,Southeast,Florida,Miami,"Women's ",Apparel,70.00,850,595000.00,297500.00,0.50,In-store
+"Sports Direct",1185732,2020-05-24,Southeast,Florida,Miami,"Men's ","Street Footwear",65.00,1075,698750.00,314437.50,0.45,In-store
+"Sports Direct",1185732,2020-05-24,Southeast,Florida,Miami,"Men's ","Athletic Footwear",55.00,875,481250.00,168437.50,0.35,In-store
+"Sports Direct",1185732,2020-05-24,Southeast,Florida,Miami,"Women's ","Street Footwear",55.00,825,453750.00,113437.50,0.25,In-store
+"Sports Direct",1185732,2020-05-24,Southeast,Florida,Miami,"Women's ","Athletic Footwear",55.00,775,426250.00,127875.00,0.30,In-store
+"Foot Locker",1185732,2020-05-24,Southeast,Florida,Miami,"Men's ",Apparel,65.00,775,503750.00,176312.50,0.35,In-store
+"Foot Locker",1185732,2020-05-24,Southeast,Florida,Miami,"Women's ",Apparel,70.00,875,612500.00,306250.00,0.50,In-store
+"Foot Locker",1185732,2020-10-17,Southeast,Florida,Miami,"Men's ","Street Footwear",35.00,450,157500.00,55125.00,0.35,In-store
+"Foot Locker",1185732,2020-10-18,Southeast,Florida,Miami,"Men's ","Athletic Footwear",35.00,250,87500.00,26250.00,0.30,In-store
+"Foot Locker",1185732,2020-10-19,Southeast,Florida,Miami,"Women's ","Street Footwear",25.00,250,62500.00,18750.00,0.30,In-store
+"Foot Locker",1185732,2020-10-20,Southeast,Florida,Miami,"Women's ","Athletic Footwear",30.00,100,30000.00,10500.00,0.35,In-store
+"Foot Locker",1185732,2020-10-21,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,45.00,150,67500.00,20250.00,0.30,In-store
+"Foot Locker",1185732,2020-10-22,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,35.00,250,87500.00,39375.00,0.45,In-store
+"Foot Locker",1185732,2020-10-23,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",35.00,500,175000.00,61250.00,0.35,In-store
+"Foot Locker",1185732,2020-10-24,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",35.00,150,52500.00,15750.00,0.30,In-store
+"Foot Locker",1185732,2020-10-25,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",25.00,200,50000.00,15000.00,0.30,In-store
+"Foot Locker",1185732,2020-10-26,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",30.00,75,22500.00,7875.00,0.35,In-store
+"Foot Locker",1185732,2020-10-27,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,45.00,150,67500.00,20250.00,0.30,In-store
+"Foot Locker",1185732,2020-10-28,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,35.00,225,78750.00,35437.50,0.45,In-store
+"Foot Locker",1185732,2020-10-29,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",40.00,445,178000.00,62300.00,0.35,In-store
+"Foot Locker",1185732,2020-10-30,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",40.00,125,50000.00,15000.00,0.30,In-store
+"Foot Locker",1185732,2020-10-31,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",30.00,175,52500.00,15750.00,0.30,In-store
+"Foot Locker",1185732,2020-11-01,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",35.00,25,8750.00,3062.50,0.35,In-store
+"Foot Locker",1185732,2020-11-02,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,50.00,75,37500.00,11250.00,0.30,In-store
+"Foot Locker",1185732,2020-11-03,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,40.00,175,70000.00,31500.00,0.45,In-store
+"Foot Locker",1185732,2020-11-04,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",40.00,400,160000.00,56000.00,0.35,In-store
+"Foot Locker",1185732,2020-11-05,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",40.00,100,40000.00,12000.00,0.30,In-store
+"Foot Locker",1185732,2020-11-06,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",30.00,100,30000.00,9000.00,0.30,In-store
+"Foot Locker",1185732,2020-11-07,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",35.00,25,8750.00,3062.50,0.35,In-store
+"Foot Locker",1185732,2020-11-08,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,50.00,50,25000.00,7500.00,0.30,In-store
+"Foot Locker",1185732,2020-11-09,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,40.00,175,70000.00,31500.00,0.45,In-store
+"Foot Locker",1185732,2020-11-10,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",50.00,445,222500.00,77875.00,0.35,In-store
+"Foot Locker",1185732,2020-11-11,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",45.00,150,67500.00,20250.00,0.30,In-store
+"Foot Locker",1185732,2020-11-12,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",40.00,125,50000.00,15000.00,0.30,In-store
+"Foot Locker",1185732,2020-11-13,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",40.00,50,20000.00,7000.00,0.35,In-store
+"Foot Locker",1185732,2020-11-14,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,55.00,75,41250.00,12375.00,0.30,In-store
+"Foot Locker",1185732,2020-11-15,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,60.00,175,105000.00,47250.00,0.45,In-store
+"Foot Locker",1185732,2020-11-16,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",45.00,425,191250.00,66937.50,0.35,Outlet
+"Foot Locker",1185732,2020-11-17,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",40.00,175,70000.00,21000.00,0.30,Outlet
+"Foot Locker",1185732,2020-11-18,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",35.00,175,61250.00,18375.00,0.30,Outlet
+"Foot Locker",1185732,2020-11-19,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",35.00,150,52500.00,18375.00,0.35,Outlet
+"Foot Locker",1185732,2020-11-20,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,50.00,150,75000.00,22500.00,0.30,Outlet
+"Foot Locker",1185732,2020-11-21,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,55.00,325,178750.00,80437.50,0.45,Outlet
+"Foot Locker",1185732,2020-11-22,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",50.00,550,275000.00,96250.00,0.35,Outlet
+"Foot Locker",1185732,2020-11-23,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",45.00,300,135000.00,40500.00,0.30,Outlet
+"Foot Locker",1185732,2020-11-24,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",40.00,225,90000.00,27000.00,0.30,Outlet
+"Foot Locker",1185732,2020-11-25,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",40.00,175,70000.00,24500.00,0.35,Outlet
+"Foot Locker",1185732,2020-11-26,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,50.00,200,100000.00,30000.00,0.30,Outlet
+"Foot Locker",1185732,2020-11-27,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,55.00,375,206250.00,92812.50,0.45,Outlet
+"Foot Locker",1185732,2020-11-28,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",50.00,525,262500.00,91875.00,0.35,Outlet
+"Foot Locker",1185732,2020-11-29,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",45.00,300,135000.00,40500.00,0.30,Outlet
+"Foot Locker",1185732,2020-11-30,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",40.00,225,90000.00,27000.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-01,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",35.00,175,61250.00,21437.50,0.35,Outlet
+"Foot Locker",1185732,2020-12-02,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,45.00,150,67500.00,20250.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-03,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,50.00,325,162500.00,73125.00,0.45,Outlet
+"Foot Locker",1185732,2020-12-04,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",45.00,450,202500.00,70875.00,0.35,Outlet
+"Foot Locker",1185732,2020-12-05,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",40.00,250,100000.00,30000.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-06,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",25.00,150,37500.00,11250.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-07,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",25.00,125,31250.00,10937.50,0.35,Outlet
+"Foot Locker",1185732,2020-12-08,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,35.00,125,43750.00,13125.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-09,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,40.00,200,80000.00,36000.00,0.45,Outlet
+"Foot Locker",1185732,2020-12-10,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",45.00,375,168750.00,59062.50,0.35,Outlet
+"Foot Locker",1185732,2020-12-11,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",35.00,200,70000.00,21000.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-12,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",35.00,100,35000.00,10500.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-13,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",35.00,75,26250.00,9187.50,0.35,Outlet
+"Foot Locker",1185732,2020-12-14,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,45.00,75,33750.00,10125.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-15,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,50.00,200,100000.00,45000.00,0.45,Outlet
+"Foot Locker",1185732,2020-12-16,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",50.00,350,175000.00,61250.00,0.35,Outlet
+"Foot Locker",1185732,2020-12-17,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",40.00,200,80000.00,24000.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-18,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",40.00,145,58000.00,17400.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-19,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",40.00,150,60000.00,21000.00,0.35,Outlet
+"Foot Locker",1185732,2020-12-20,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,55.00,125,68750.00,20625.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-21,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,60.00,225,135000.00,60750.00,0.45,Outlet
+"Foot Locker",1185732,2020-12-22,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",55.00,475,261250.00,91437.50,0.35,Outlet
+"Foot Locker",1185732,2020-12-23,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",45.00,275,123750.00,37125.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-24,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",45.00,225,101250.00,30375.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-25,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",45.00,175,78750.00,27562.50,0.35,Outlet
+"Foot Locker",1185732,2020-12-26,Midwest,Minnesota,Minneapolis,"Men's ",Apparel,55.00,175,96250.00,28875.00,0.30,Outlet
+"Foot Locker",1185732,2020-12-27,Midwest,Minnesota,Minneapolis,"Women's ",Apparel,60.00,275,165000.00,74250.00,0.45,Outlet
+Kohl's,1189833,2020-12-28,Midwest,Minnesota,Minneapolis,"Men's ","Street Footwear",35.00,475,166250.00,74812.50,0.45,Outlet
+Kohl's,1189833,2020-12-29,Midwest,Minnesota,Minneapolis,"Men's ","Athletic Footwear",45.00,475,213750.00,64125.00,0.30,Outlet
+Kohl's,1189833,2020-12-30,Midwest,Minnesota,Minneapolis,"Women's ","Street Footwear",45.00,475,213750.00,96187.50,0.45,Outlet
+Kohl's,1189833,2020-12-31,Midwest,Minnesota,Minneapolis,"Women's ","Athletic Footwear",45.00,325,146250.00,58500.00,0.40,Outlet
+Kohl's,1189833,2021-01-01,Midwest,Montana,Billings,"Men's ",Apparel,50.00,275,137500.00,82500.00,0.60,Outlet
+Kohl's,1189833,2021-01-02,Midwest,Montana,Billings,"Women's ",Apparel,45.00,475,213750.00,53437.50,0.25,Outlet
+Kohl's,1189833,2021-01-03,Midwest,Montana,Billings,"Men's ","Street Footwear",35.00,525,183750.00,82687.50,0.45,Outlet
+Kohl's,1189833,2021-01-04,Midwest,Montana,Billings,"Men's ","Athletic Footwear",45.00,425,191250.00,57375.00,0.30,Outlet
+Kohl's,1189833,2021-01-05,Midwest,Montana,Billings,"Women's ","Street Footwear",45.00,450,202500.00,91125.00,0.45,Outlet
+Kohl's,1189833,2021-01-06,Midwest,Montana,Billings,"Women's ","Athletic Footwear",45.00,300,135000.00,54000.00,0.40,Outlet
+Kohl's,1189833,2021-01-07,Midwest,Montana,Billings,"Men's ",Apparel,50.00,225,112500.00,67500.00,0.60,Outlet
+Kohl's,1189833,2021-01-08,Midwest,Montana,Billings,"Women's ",Apparel,45.00,425,191250.00,47812.50,0.25,Outlet
+Kohl's,1189833,2021-01-09,Midwest,Montana,Billings,"Men's ","Street Footwear",35.00,575,201250.00,90562.50,0.45,Outlet
+Kohl's,1189833,2021-01-10,Midwest,Montana,Billings,"Men's ","Athletic Footwear",45.00,425,191250.00,57375.00,0.30,Outlet
+Kohl's,1189833,2021-01-11,Midwest,Montana,Billings,"Women's ","Street Footwear",45.00,425,191250.00,86062.50,0.45,Outlet
+Kohl's,1189833,2021-01-12,Midwest,Montana,Billings,"Women's ","Athletic Footwear",45.00,325,146250.00,58500.00,0.40,Outlet
+Kohl's,1189833,2021-01-13,Midwest,Montana,Billings,"Men's ",Apparel,50.00,200,100000.00,60000.00,0.60,Outlet
+Kohl's,1189833,2021-01-14,Midwest,Montana,Billings,"Women's ",Apparel,45.00,400,180000.00,45000.00,0.25,Outlet
+Kohl's,1189833,2021-01-15,Midwest,Montana,Billings,"Men's ","Street Footwear",45.00,575,258750.00,116437.50,0.45,Outlet
+Kohl's,1189833,2021-01-16,Midwest,Montana,Billings,"Men's ","Athletic Footwear",45.00,375,168750.00,50625.00,0.30,Outlet
+Kohl's,1189833,2021-01-17,Midwest,Montana,Billings,"Women's ","Street Footwear",45.00,400,180000.00,81000.00,0.45,Outlet
+Kohl's,1189833,2021-01-18,Midwest,Montana,Billings,"Women's ","Athletic Footwear",40.00,300,120000.00,48000.00,0.40,Outlet
+Kohl's,1189833,2021-01-19,Midwest,Montana,Billings,"Men's ",Apparel,45.00,200,90000.00,54000.00,0.60,Outlet
+Kohl's,1189833,2021-01-20,Midwest,Montana,Billings,"Women's ",Apparel,60.00,375,225000.00,56250.00,0.25,Outlet
+Kohl's,1189833,2021-01-21,Midwest,Montana,Billings,"Men's ","Street Footwear",40.00,575,230000.00,103500.00,0.45,Outlet
+Kohl's,1189833,2021-01-22,Midwest,Montana,Billings,"Men's ","Athletic Footwear",45.00,425,191250.00,57375.00,0.30,Outlet
+Kohl's,1189833,2021-01-23,Midwest,Montana,Billings,"Women's ","Street Footwear",45.00,425,191250.00,86062.50,0.45,Outlet
+Kohl's,1189833,2021-01-24,Midwest,Montana,Billings,"Women's ","Athletic Footwear",40.00,325,130000.00,52000.00,0.40,Outlet
+Kohl's,1189833,2021-01-25,Midwest,Montana,Billings,"Men's ",Apparel,45.00,225,101250.00,60750.00,0.60,Outlet
+Kohl's,1189833,2021-01-26,Midwest,Montana,Billings,"Women's ",Apparel,60.00,400,240000.00,60000.00,0.25,Outlet
+Kohl's,1189833,2021-01-27,Midwest,Montana,Billings,"Men's ","Street Footwear",40.00,675,270000.00,121500.00,0.45,Outlet
+Kohl's,1189833,2021-01-28,Midwest,Montana,Billings,"Men's ","Athletic Footwear",45.00,525,236250.00,70875.00,0.30,Outlet
+Kohl's,1189833,2021-01-29,Midwest,Montana,Billings,"Women's ","Street Footwear",45.00,550,247500.00,111375.00,0.45,Outlet
+Kohl's,1189833,2021-01-30,Midwest,Montana,Billings,"Women's ","Athletic Footwear",40.00,425,170000.00,68000.00,0.40,Outlet
+Kohl's,1189833,2021-01-31,Midwest,Montana,Billings,"Men's ",Apparel,45.00,300,135000.00,81000.00,0.60,Outlet
+Kohl's,1189833,2021-02-01,Midwest,Montana,Billings,"Women's ",Apparel,60.00,600,360000.00,90000.00,0.25,Outlet
+Kohl's,1189833,2021-02-02,Midwest,Montana,Billings,"Men's ","Street Footwear",40.00,750,300000.00,135000.00,0.45,Outlet
+Kohl's,1189833,2021-02-03,Midwest,Montana,Billings,"Men's ","Athletic Footwear",45.00,600,270000.00,81000.00,0.30,Outlet
+Kohl's,1189833,2021-02-04,Midwest,Montana,Billings,"Women's ","Street Footwear",45.00,550,247500.00,111375.00,0.45,Outlet
+Kohl's,1189833,2021-02-05,Midwest,Montana,Billings,"Women's ","Athletic Footwear",40.00,450,180000.00,72000.00,0.40,Outlet
+Kohl's,1189833,2021-02-06,Midwest,Montana,Billings,"Men's ",Apparel,45.00,475,213750.00,128250.00,0.60,Outlet
+Kohl's,1189833,2021-02-07,Midwest,Montana,Billings,"Women's ",Apparel,60.00,475,285000.00,71250.00,0.25,Outlet
+Kohl's,1189833,2021-02-08,Midwest,Montana,Billings,"Men's ","Street Footwear",45.00,675,303750.00,136687.50,0.45,Outlet
+Kohl's,1189833,2021-02-09,Midwest,Montana,Billings,"Men's ","Athletic Footwear",55.00,625,343750.00,103125.00,0.30,Outlet
+Kohl's,1189833,2021-02-10,Midwest,Montana,Billings,"Women's ","Street Footwear",50.00,500,250000.00,112500.00,0.45,Outlet
+Kohl's,1189833,2021-02-11,Midwest,Montana,Billings,"Women's ","Athletic Footwear",45.00,425,191250.00,76500.00,0.40,Outlet
+Kohl's,1189833,2021-02-12,Midwest,Montana,Billings,"Men's ",Apparel,55.00,425,233750.00,140250.00,0.60,Outlet
+Kohl's,1189833,2021-02-13,Midwest,Montana,Billings,"Women's ",Apparel,60.00,400,240000.00,60000.00,0.25,Outlet
+Kohl's,1189833,2021-02-14,Midwest,Montana,Billings,"Men's ","Street Footwear",45.00,600,270000.00,121500.00,0.45,Outlet
+Kohl's,1189833,2021-02-15,Midwest,Montana,Billings,"Men's ","Athletic Footwear",50.00,600,300000.00,90000.00,0.30,Outlet
+Kohl's,1189833,2021-02-16,Midwest,Montana,Billings,"Women's ","Street Footwear",45.00,450,202500.00,91125.00,0.45,Outlet
+Kohl's,1189833,2021-02-17,Midwest,Montana,Billings,"Women's ","Athletic Footwear",45.00,400,180000.00,72000.00,0.40,Outlet
+Kohl's,1189833,2021-02-18,Midwest,Montana,Billings,"Men's ",Apparel,55.00,400,220000.00,132000.00,0.60,Outlet
+Kohl's,1189833,2021-02-19,Midwest,Montana,Billings,"Women's ",Apparel,60.00,450,270000.00,67500.00,0.25,Outlet
+Kohl's,1189833,2021-02-20,Midwest,Montana,Billings,"Men's ","Street Footwear",45.00,550,247500.00,111375.00,0.45,Outlet
+Kohl's,1189833,2021-02-21,Midwest,Montana,Billings,"Men's ","Athletic Footwear",50.00,550,275000.00,82500.00,0.30,Outlet
+Kohl's,1189833,2021-02-22,Midwest,Montana,Billings,"Women's ","Street Footwear",45.00,400,180000.00,81000.00,0.45,Outlet
+Kohl's,1189833,2021-02-23,Midwest,Montana,Billings,"Women's ","Athletic Footwear",45.00,375,168750.00,67500.00,0.40,Outlet
+Kohl's,1189833,2021-02-24,Midwest,Montana,Billings,"Men's ",Apparel,55.00,350,192500.00,115500.00,0.60,Outlet
+Kohl's,1189833,2021-02-25,Midwest,Montana,Billings,"Women's ",Apparel,60.00,400,240000.00,60000.00,0.25,Outlet
+Kohl's,1189833,2021-02-26,Midwest,Montana,Billings,"Men's ","Street Footwear",40.00,575,230000.00,103500.00,0.45,Outlet
+Kohl's,1189833,2021-02-27,Midwest,Montana,Billings,"Men's ","Athletic Footwear",45.00,575,258750.00,77625.00,0.30,Outlet
+Kohl's,1189833,2021-02-28,Midwest,Montana,Billings,"Women's ","Street Footwear",40.00,425,170000.00,76500.00,0.45,Outlet
+Kohl's,1189833,2021-03-01,Midwest,Montana,Billings,"Women's ","Athletic Footwear",40.00,425,170000.00,68000.00,0.40,Outlet
+Kohl's,1189833,2021-03-02,Midwest,Montana,Billings,"Men's ",Apparel,55.00,375,206250.00,123750.00,0.60,Outlet
+Kohl's,1189833,2021-03-03,Midwest,Montana,Billings,"Women's ",Apparel,60.00,475,285000.00,71250.00,0.25,Outlet
+Kohl's,1189833,2021-03-04,Midwest,Montana,Billings,"Men's ","Street Footwear",45.00,675,303750.00,136687.50,0.45,Outlet
+Kohl's,1189833,2021-03-05,Midwest,Montana,Billings,"Men's ","Athletic Footwear",50.00,675,337500.00,101250.00,0.30,Outlet
+Kohl's,1189833,2021-03-06,Midwest,Montana,Billings,"Women's ","Street Footwear",45.00,475,213750.00,96187.50,0.45,Outlet
+Kohl's,1189833,2021-03-07,Midwest,Montana,Billings,"Women's ","Athletic Footwear",45.00,475,213750.00,85500.00,0.40,Outlet
+Kohl's,1189833,2021-03-08,Midwest,Montana,Billings,"Men's ",Apparel,55.00,400,220000.00,132000.00,0.60,Outlet
+Kohl's,1189833,2021-03-09,Midwest,Montana,Billings,"Women's ",Apparel,60.00,500,300000.00,75000.00,0.25,Outlet
+"Sports Direct",1197831,2021-03-10,Midwest,Montana,Billings,"Men's ","Street Footwear",20.00,700,140000.00,49000.00,0.35,Outlet
+"Sports Direct",1197831,2021-03-11,Midwest,Montana,Billings,"Men's ","Athletic Footwear",30.00,700,210000.00,73500.00,0.35,Outlet
+"Sports Direct",1197831,2021-03-12,Midwest,Montana,Billings,"Women's ","Street Footwear",30.00,500,150000.00,52500.00,0.35,Outlet
+"Sports Direct",1197831,2021-03-13,Midwest,Montana,Billings,"Women's ","Athletic Footwear",35.00,500,175000.00,78750.00,0.45,Outlet
+"Sports Direct",1197831,2021-03-14,South,Tennessee,Knoxville,"Men's ",Apparel,40.00,350,140000.00,42000.00,0.30,Outlet
+"Sports Direct",1197831,2021-03-15,South,Tennessee,Knoxville,"Women's ",Apparel,35.00,500,175000.00,87500.00,0.50,Outlet
+"Sports Direct",1197831,2021-03-16,South,Tennessee,Knoxville,"Men's ","Street Footwear",25.00,650,162500.00,56875.00,0.35,Outlet
+"Sports Direct",1197831,2021-03-17,South,Tennessee,Knoxville,"Men's ","Athletic Footwear",35.00,625,218750.00,76562.50,0.35,Outlet
+"Sports Direct",1197831,2021-03-18,South,Tennessee,Knoxville,"Women's ","Street Footwear",35.00,450,157500.00,55125.00,0.35,Outlet
+"Sports Direct",1197831,2021-03-19,South,Tennessee,Knoxville,"Women's ","Athletic Footwear",35.00,400,140000.00,63000.00,0.45,Outlet
+"Sports Direct",1197831,2021-03-20,South,Tennessee,Knoxville,"Men's ",Apparel,40.00,275,110000.00,33000.00,0.30,Outlet
+"Sports Direct",1197831,2021-03-21,South,Tennessee,Knoxville,"Women's ",Apparel,35.00,475,166250.00,83125.00,0.50,Outlet
+"Sports Direct",1197831,2021-03-22,South,Tennessee,Knoxville,"Men's ","Street Footwear",30.00,650,195000.00,78000.00,0.40,Outlet
+"Sports Direct",1197831,2021-03-23,South,Tennessee,Knoxville,"Men's ","Athletic Footwear",40.00,650,260000.00,104000.00,0.40,Outlet
+"Sports Direct",1197831,2021-03-24,South,Tennessee,Knoxville,"Women's ","Street Footwear",30.00,475,142500.00,57000.00,0.40,Outlet
+"Sports Direct",1197831,2021-03-25,South,Tennessee,Knoxville,"Women's ","Athletic Footwear",35.00,375,131250.00,65625.00,0.50,Outlet
+"Sports Direct",1197831,2021-03-26,South,Tennessee,Knoxville,"Men's ",Apparel,40.00,275,110000.00,38500.00,0.35,Outlet
+"Sports Direct",1197831,2021-03-27,South,Tennessee,Knoxville,"Women's ",Apparel,35.00,425,148750.00,81812.50,0.55,Outlet
+"Sports Direct",1197831,2021-03-28,South,Tennessee,Knoxville,"Men's ","Street Footwear",20.00,675,135000.00,54000.00,0.40,Outlet
+"Sports Direct",1197831,2021-03-29,South,Tennessee,Knoxville,"Men's ","Athletic Footwear",25.00,675,168750.00,67500.00,0.40,Outlet
+"Sports Direct",1197831,2021-03-30,South,Tennessee,Knoxville,"Women's ","Street Footwear",20.00,500,100000.00,40000.00,0.40,Outlet
+"Sports Direct",1197831,2021-03-31,South,Tennessee,Knoxville,"Women's ","Athletic Footwear",25.00,400,100000.00,50000.00,0.50,Outlet
+"Sports Direct",1197831,2021-04-01,South,Tennessee,Knoxville,"Men's ",Apparel,30.00,300,90000.00,31500.00,0.35,Outlet
+"Sports Direct",1197831,2021-04-02,South,Tennessee,Knoxville,"Women's ",Apparel,25.00,575,143750.00,79062.50,0.55,Outlet
+"Sports Direct",1197831,2021-04-03,South,Tennessee,Knoxville,"Men's ","Street Footwear",15.00,725,108750.00,43500.00,0.40,Outlet
+"Sports Direct",1197831,2021-04-04,South,Tennessee,Knoxville,"Men's ","Athletic Footwear",25.00,750,187500.00,75000.00,0.40,Outlet
+"Sports Direct",1197831,2021-04-05,South,Tennessee,Knoxville,"Women's ","Street Footwear",20.00,600,120000.00,48000.00,0.40,Outlet
+"Sports Direct",1197831,2021-04-06,South,Tennessee,Knoxville,"Women's ","Athletic Footwear",30.00,525,157500.00,78750.00,0.50,Outlet
+"Sports Direct",1197831,2021-04-07,South,Tennessee,Knoxville,"Men's ",Apparel,45.00,425,191250.00,66937.50,0.35,Outlet
+"Sports Direct",1197831,2021-04-08,South,Tennessee,Knoxville,"Women's ",Apparel,40.00,775,310000.00,170500.00,0.55,Outlet
+"Sports Direct",1197831,2021-04-09,South,Tennessee,Knoxville,"Men's ","Street Footwear",40.00,775,310000.00,124000.00,0.40,Outlet
+"Sports Direct",1197831,2021-04-10,South,Tennessee,Knoxville,"Men's ","Athletic Footwear",45.00,775,348750.00,139500.00,0.40,Outlet
+"Sports Direct",1197831,2021-04-11,South,Tennessee,Knoxville,"Women's ","Street Footwear",40.00,650,260000.00,104000.00,0.40,Outlet
+"Sports Direct",1197831,2021-04-12,South,Tennessee,Knoxville,"Women's ","Athletic Footwear",40.00,600,240000.00,120000.00,0.50,Outlet
+"Sports Direct",1197831,2021-04-13,South,Tennessee,Knoxville,"Men's ",Apparel,45.00,500,225000.00,78750.00,0.35,Outlet
+"Sports Direct",1197831,2021-04-14,South,Tennessee,Knoxville,"Women's ",Apparel,50.00,875,437500.00,240625.00,0.55,Outlet
+"Sports Direct",1197831,2021-04-15,South,Tennessee,Knoxville,"Men's ","Street Footwear",40.00,825,330000.00,148500.00,0.45,Outlet
+"Sports Direct",1197831,2021-04-16,South,Tennessee,Knoxville,"Men's ","Athletic Footwear",45.00,825,371250.00,167062.50,0.45,Outlet
+"Sports Direct",1197831,2021-04-17,South,Tennessee,Knoxville,"Women's ","Street Footwear",40.00,975,390000.00,175500.00,0.45,Outlet
+"Sports Direct",1197831,2021-04-18,South,Tennessee,Knoxville,"Women's ","Athletic Footwear",40.00,575,230000.00,126500.00,0.55,Outlet
+"Sports Direct",1197831,2021-04-19,South,Tennessee,Knoxville,"Men's ",Apparel,45.00,550,247500.00,99000.00,0.40,Outlet
+"Sports Direct",1197831,2021-04-20,South,Tennessee,Knoxville,"Women's ",Apparel,55.00,825,453750.00,272250.00,0.60,Outlet
+"Sports Direct",1197831,2021-04-21,South,Tennessee,Knoxville,"Men's ","Street Footwear",45.00,775,348750.00,156937.50,0.45,Outlet
+"Sports Direct",1197831,2021-04-22,South,Tennessee,Knoxville,"Men's ","Athletic Footwear",55.00,775,426250.00,191812.50,0.45,Outlet
+"Sports Direct",1197831,2021-04-23,South,Tennessee,Knoxville,"Women's ","Street Footwear",50.00,950,475000.00,213750.00,0.45,Outlet
+"Sports Direct",1197831,2021-04-24,South,Tennessee,Knoxville,"Women's ","Athletic Footwear",45.00,475,213750.00,117562.50,0.55,Outlet
+"Sports Direct",1197831,2021-04-25,South,Tennessee,Knoxville,"Men's ",Apparel,50.00,475,237500.00,95000.00,0.40,Outlet
+"Sports Direct",1197831,2021-04-26,South,Tennessee,Knoxville,"Women's ",Apparel,55.00,725,398750.00,239250.00,0.60,Outlet
+"Sports Direct",1197831,2021-04-27,South,Tennessee,Knoxville,"Men's ","Street Footwear",50.00,675,337500.00,151875.00,0.45,Outlet
+"Sports Direct",1197831,2021-04-28,South,Tennessee,Knoxville,"Men's ","Athletic Footwear",50.00,625,312500.00,140625.00,0.45,Outlet
+"Sports Direct",1197831,2021-04-29,South,Tennessee,Knoxville,"Women's ","Street Footwear",55.00,675,371250.00,167062.50,0.45,Outlet
+"Sports Direct",1197831,2021-04-30,South,Tennessee,Knoxville,"Women's ","Athletic Footwear",55.00,400,220000.00,121000.00,0.55,Outlet
+"Sports Direct",1197831,2021-05-01,South,Tennessee,Knoxville,"Men's ",Apparel,50.00,400,200000.00,80000.00,0.40,Outlet
+"Sports Direct",1197831,2021-05-02,South,Tennessee,Knoxville,"Women's ",Apparel,45.00,625,281250.00,168750.00,0.60,Outlet
+"Sports Direct",1197831,2021-05-03,South,Tennessee,Knoxville,"Men's ","Street Footwear",35.00,575,201250.00,90562.50,0.45,Outlet
+"Sports Direct",1197831,2021-05-04,South,Tennessee,Knoxville,"Men's ","Athletic Footwear",35.00,575,201250.00,90562.50,0.45,Outlet
+"Sports Direct",1197831,2021-05-05,South,Tennessee,Knoxville,"Women's ","Street Footwear",40.00,525,210000.00,94500.00,0.45,Outlet
+"Sports Direct",1197831,2021-05-06,South,Tennessee,Knoxville,"Women's ","Athletic Footwear",40.00,375,150000.00,82500.00,0.55,Outlet
+"Sports Direct",1197831,2021-05-07,South,Tennessee,Knoxville,"Men's ",Apparel,35.00,350,122500.00,49000.00,0.40,Outlet
+"Sports Direct",1197831,2021-05-08,South,Tennessee,Knoxville,"Women's ",Apparel,45.00,525,236250.00,141750.00,0.60,Outlet
+"Sports Direct",1197831,2021-05-09,South,Tennessee,Knoxville,"Men's ","Street Footwear",30.00,675,202500.00,91125.00,0.45,Outlet
+"Sports Direct",1197831,2021-05-10,South,Tennessee,Knoxville,"Men's ","Athletic Footwear",30.00,675,202500.00,91125.00,0.45,Outlet
+"Sports Direct",1197831,2021-05-11,South,Tennessee,Knoxville,"Women's ","Street Footwear",55.00,600,330000.00,148500.00,0.45,Outlet
+"Sports Direct",1197831,2021-05-12,South,Tennessee,Knoxville,"Women's ","Athletic Footwear",55.00,475,261250.00,143687.50,0.55,Outlet
+"Sports Direct",1197831,2021-05-13,South,Tennessee,Knoxville,"Men's ",Apparel,55.00,450,247500.00,99000.00,0.40,Outlet
+"Sports Direct",1197831,2021-05-14,South,Tennessee,Knoxville,"Women's ",Apparel,65.00,650,422500.00,253500.00,0.60,Outlet
+"Sports Direct",1197831,2021-05-15,South,Tennessee,Knoxville,"Men's ","Street Footwear",55.00,800,440000.00,198000.00,0.45,Outlet
+"Sports Direct",1197831,2021-05-16,South,Tennessee,Knoxville,"Men's ","Athletic Footwear",55.00,800,440000.00,198000.00,0.45,Outlet
